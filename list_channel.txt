@@ -22,13 +22,13 @@
       "idChannel": "faptv",
       "name": "Fap TV",
       "image": "img/faptv.jpg",
-      "hasSubCategory" : true
+      "hasSubCategory" : false
     },
     {
       "idChannel": "trangtv",
       "name": "Trắng TV",
       "image": "img/trangtv.jpg",
-      "hasSubCategory" : false
+      "hasSubCategory" : true
     },
     {
       "idChannel": "loaphuong",
