@@ -2,8 +2,38 @@
   "result": [
     {
       "idChannel": "trangnew999",
-      "name": "Bản tin trắng new 999",
-      "image": "https://raw.githubusercontent.com/doandat/Hai/master/img/trangnew999.jpg",
+      "name": "TRẮNG NEWS 999 - Tin hot mỗi ngày !!!",
+      "image": "img/trangnew999.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "nhactrang",
+      "name": "NHẠC TRẮNG - Âm nhạc Thời sự trong TUẦN...",
+      "image": "img/nhactrang.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "thienbienvanhoa",
+      "name": "Thiên Biến Vạn Hóa | Phim hài",
+      "image": "img/thienbienvanhoa.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "trangtrai",
+      "name": "TRẮNG TRẢI - Tâm sự người trong cuộc !!!",
+      "image": "img/trangtrai.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "trangchuotbach",
+      "name": "CHUỘT BẠCH - Thử mọi thứ !!!",
+      "image": "img/trangchuotbach.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "trangtrongtrang",
+      "name": "TRONG TRẮNG - Cảm xúc và phản ứng !!!",
+      "image": "img/trangtrongtrang.jpg",
       "hasSubCategory" : false
     }
   ]
