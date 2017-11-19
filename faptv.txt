@@ -29,6 +29,12 @@
       "name": "Phim Là Anh",
       "image": "img/faplaanh.jpg",
       "hasSubCategory" : false
+    },
+    {
+      "idChannel": "fapkytucxa",
+      "name": "Ký Túc Xá - Đậu Phộng Tv",
+      "image": "img/fapkytucxa.jpg",
+      "hasSubCategory" : false
     }
     
   ]
