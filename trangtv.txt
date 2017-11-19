@@ -2,7 +2,7 @@
   "result": [
     {
       "idChannel": "trangnew999",
-      "name": "Hài Hàn Quốc tổng hợp",
+      "name": "Bản tin trắng new 999",
       "image": "https://raw.githubusercontent.com/doandat/Hai/master/img/trangnew999.jpg",
       "hasSubCategory" : false
     }
