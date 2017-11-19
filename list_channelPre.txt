@@ -28,7 +28,7 @@
       "idChannel": "trangtv",
       "name": "Trắng TV",
       "image": "img/trangtv.jpg",
-      "hasSubCategory" : false
+      "hasSubCategory" : true
     },
     {
       "idChannel": "loaphuong",
