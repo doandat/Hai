@@ -35,7 +35,7 @@
       "name": "TRONG TRẮNG - Cảm xúc và phản ứng !!!",
       "image": "img/trangtrongtrang.jpg",
       "hasSubCategory" : false
-    }
+    },
     {
       "idChannel": "trangkid",
       "name": "Trắng KID - Video cho thiếu nhi !!!",
