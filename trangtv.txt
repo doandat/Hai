@@ -36,5 +36,11 @@
       "image": "img/trangtrongtrang.jpg",
       "hasSubCategory" : false
     }
+    {
+      "idChannel": "trangkid",
+      "name": "Trắng KID - Video cho thiếu nhi !!!",
+      "image": "img/trangkid.jpg",
+      "hasSubCategory" : false
+    }
   ]
 }
