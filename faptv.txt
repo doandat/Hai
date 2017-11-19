@@ -1,8 +1,8 @@
 {
   "result": [
     {
-      "idChannel": "Yêu Ư ? Để Sau",
-      "name": "fapyeuudesau",
+      "idChannel": "fapyeuudesau",
+      "name": "Yêu Ư ? Để Sau",
       "image": "img/fapyeuudesau.jpg",
       "hasSubCategory" : false
     },
