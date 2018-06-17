@@ -1,0 +1,96 @@
+{
+  "code": 200,
+  "message": "",
+  "result": [
+    {
+      "id": 1,
+      "name": "Vova",
+      "image": "",
+      "count": 124
+    },
+    {
+      "id": 2,
+      "name": "Dân gian",
+      "image": "",
+      "count": 183
+    },
+    {
+      "id": 3,
+      "name": "Gia đình",
+      "image": "",
+      "count": 148
+    },
+    {
+      "id": 4,
+      "name": "Tình yêu",
+      "image": "",
+      "count": 195
+    },
+    {
+      "id": 5,
+      "name": "Tiếu lâm",
+      "image": "",
+      "count": 136
+    },
+    {
+      "id": 6,
+      "name": "Công sở",
+      "image": "",
+      "count": 139
+    },
+    {
+      "id": 7,
+      "name": "Học sinh",
+      "image": "",
+      "count": 164
+    },
+    {
+      "id": 10,
+      "name": "Truyện ngắn",
+      "image": "",
+      "count": 118
+    },
+    {
+      "id": 12,
+      "name": "Cười 18+",
+      "image": "",
+      "count": 112
+    },
+    {
+      "id": 13,
+      "name": "Y học",
+      "image": "",
+      "count": 68
+    },
+    {
+      "id": 14,
+      "name": "Tam quốc",
+      "image": "",
+      "count": 47
+    },
+    {
+      "id": 15,
+      "name": "Thế giới",
+      "image": "",
+      "count": 84
+    },
+    {
+      "id": 22,
+      "name": "Tây du ký chế",
+      "image": "",
+      "count": 13
+    },
+    {
+      "id": 27,
+      "name": "Truyện khác",
+      "image": "",
+      "count": 230
+    },
+    {
+      "id": 28,
+      "name": "Cười ngược",
+      "image": "",
+      "count": 1
+    }
+  ]
+}
