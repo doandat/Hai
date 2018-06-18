@@ -65,7 +65,7 @@
     {
       "id": 14,
       "name": "Tam quốc",
-      "image": "stories/img/tamqupc.jpg",
+      "image": "stories/img/tamquoc.jpg",
       "count": 47
     },
     {
