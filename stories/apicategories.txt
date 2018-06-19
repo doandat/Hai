@@ -49,48 +49,6 @@
       "name": "Truyện ngắn",
       "image": "stories/img/truyenngan.jpg",
       "count": 118
-    },
-    {
-      "id": 9,
-      "name": "Cười 18+",
-      "image": "stories/img/truyen18.jpg",
-      "count": 112
-    },
-    {
-      "id": 10,
-      "name": "Y học",
-      "image": "stories/img/yhoc.jpg",
-      "count": 68
-    },
-    {
-      "id": 11,
-      "name": "Tam quốc",
-      "image": "stories/img/tamquoc.jpg",
-      "count": 47
-    },
-    {
-      "id": 12,
-      "name": "Thế giới",
-      "image": "stories/img/thegioi.jpg",
-      "count": 84
-    },
-    {
-      "id": 13,
-      "name": "Tây du ký chế",
-      "image": "stories/img/taydukyche.jpg",
-      "count": 13
-    },
-    {
-      "id": 14,
-      "name": "Cười ngược",
-      "image": "stories/img/cuoinguoc.jpg",
-      "count": 1
-    },
-    {
-      "id": 15,
-      "name": "Truyện khác",
-      "image": "stories/img/khac.jpg",
-      "count": 230
     }
   ]
 }
