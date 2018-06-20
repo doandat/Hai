@@ -1,6 +1,8 @@
 {
   "code": 200,
   "message": "",
+  "isPassAppstore" : false,
+  "isForceAppstoreReviewing" : false,
   "result": [
     {
       "id": 1,
