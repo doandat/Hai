@@ -20,13 +20,13 @@
     },
     {
       "idChannel": "haihanquoc",
-      "name": "Hài hàn quốc",
+      "name": "Hài Hàn Quốc",
       "image": "img/haihanquoc.jpg",
       "hasSubCategory": true
     },
     {
       "idChannel": "haitrungquoc",
-      "name": "Hài Trung quốc",
+      "name": "Hài Trung Quốc",
       "image": "img/haitrungquoc.png",
       "hasSubCategory": false
     },
