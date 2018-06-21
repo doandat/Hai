@@ -31,6 +31,12 @@
       "hasSubCategory": false
     },
     {
+      "idChannel": "svmtv",
+      "name": "SVM TV",
+      "image": "img/svmtv.jpg",
+      "hasSubCategory": true
+    },
+    {
       "idChannel": "kemxoitv",
       "name": "Kem xôi TV",
       "image": "img/kemxoitv.jpg",
