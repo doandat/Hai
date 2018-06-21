@@ -1,0 +1,290 @@
+{
+  "code": 200,
+  "message": "",
+  "result": [
+    {
+      "name": "Đi học muộn để góp phần giảm kẹt xe",
+      "author": ""
+    },
+    {
+      "name": "Nếu không có học sinh thì tất cả giáo viên đều mất dạy !",
+      "author": ""
+    },
+    {
+      "name": "Triết là một môn khoa học đặc biệt chuyên biến những thứ dễ hiểu thành khó hiểu.",
+      "author": ""
+    },
+    {
+      "name": "Việc kiểm tra bài tập về nhà có thể gây ra hội chứng quên tạm thời ở nhiều học sinh",
+      "author": ""
+    },
+    {
+      "name": "Dốt đến đâu, học lâu cũng thấm",
+      "author": ""
+    },
+    {
+      "name": "Kiến thức rồi cũng ra đi chỉ có tấm bằng là ở lại",
+      "author": ""
+    },
+    {
+      "name": "Nhất quỷ, nhì ma, thứ ba học trò, còn thứ tư là 1 ngày trong tuần",
+      "author": ""
+    },
+    {
+      "name": "Học vấn giúp người ta sai lầm một cách bài bản.",
+      "author": ""
+    },
+    {
+      "name": "Yêu là chuyện nhỏ, học là chuyện lớn. Chuyện nhỏ không làm sao làm chuyện lớn được.",
+      "author": ""
+    },
+    {
+      "name": "Học dở nhất môn Văn với Hoá giờ mới vô văn hoá \nHọc yếu môn sinh và lý, thế nên mới yếu sinh lý.",
+      "author": ""
+    },
+    {
+      "name": "Học chính trị ... nên trị là chính",
+      "author": ""
+    },
+    {
+      "name": "Đi học như bị gió thổi ngược về sau, tan học chạy nhanh đến mức chó không đuổi kịp.",
+      "author": ""
+    },
+    {
+      "name": "Cứ mỗi lần giáo viên gọi người trả lời câu hỏi là lại cố tình làm rơi bút xuống đất để cúi xuống nhặt, nhặt mất bao năm nay...",
+      "author": ""
+    },
+    {
+      "name": "Đi học là quá trình không ngừng tìm một tư thế ngủ sao thoải mái nhất.",
+      "author": ""
+    },
+    {
+      "name": "Kinh ha, hôm nay lại còn nghe giảng cơ đấy?\nĐiện thoại hết pin rồi!",
+      "author": ""
+    },
+    {
+      "name": "Học hành như cá kho tiêu\nKho nhiều thì mặn học nhiều thì ngu",
+      "author": ""
+    },
+    {
+      "name": "Chưa học xong chưa đi ngủ\nChưa học đủ chưa onl face.",
+      "author": ""
+    },
+    {
+      "name": "Học không chơi đánh rơi tuổi trẻ.\nChơi không học bán rẻ tương lai.\nThôi thì ta chọn cả hai\nVừa chơi vừa học tương lai huy hoàng",
+      "author": ""
+    },
+    {
+      "name": "Những tiết học chán chường là cơ hội giúp bạn hoàn thiện kỹ năng vẽ vời",
+      "author": ""
+    },
+    {
+      "name": "Học sinh không phải cái bình chứa để được lấp đầy, mà là ngọn đuốc để được thắp sáng lên",
+      "author": ""
+    },
+    {
+      "name": "Các nhà thơ, nhà văn cũng không thể hiểu tác phẩm của chính họ bằng bộ giáo dục",
+      "author": ""
+    },
+    {
+      "name": "Thầy tao nói chuyện học hành là chuyện cả đời nha mày. Bởi vậy, bữa nay không học thì bữa khác học. Chuyện cả đời mà.",
+      "author": ""
+    },
+    {
+      "name": "Kiến thức là cái gì còn lại sau khi đã quên hết mọi thứ.",
+      "author": ""
+    },
+    {
+      "name": "Nói tiếng anh như gió, gặp từ khó ta … bắn sang tiếng Việt.",
+      "author": ""
+    },
+    {
+      "name": "Đêm nay định thức học bài\nLật qua lật lại thấy dài lại thôi",
+      "author": ""
+    },
+    {
+      "name": "Học mà không chịu suy nghĩ thì không minh mẫn được, suy nghĩ mà không chịu học thì luôn luôn nghi ngờ.",
+      "author": ""
+    },
+    {
+      "name": "Một ngày mà không học được cái gì thì đừng đi ngủ.",
+      "author": ""
+    },
+    {
+      "name": "Bằng cấp không mài mà ăn được.",
+      "author": ""
+    },
+    {
+      "name": "Những khách hàng khó tính nhất chính là nguồn học vĩ đại nhất của bạn.",
+      "author": ""
+    },
+    {
+      "name": "Ngàn lời thầy khuyên nhiều lúc ... không bằng lời động viên của bạn gái.",
+      "author": ""
+    },
+    {
+      "name": "Suốt mấy năm trời đi học tui chỉ thắc mắc 1 điều.\nHọc xong thì chữ trả cho thầy\nVậy tại sao trường không trả học phí cho mình?",
+      "author": ""
+    },
+    {
+      "name": "Nhất quỷ, nhì ma, thứ 3 thì ... đi học bình thường!",
+      "author": ""
+    },
+    {
+      "name": "Điều sỉ nhục nhất đời học sinh là ...  đã quay cóp mà vẫn thi trượt.",
+      "author": ""
+    },
+    {
+      "name": "Tui đã từng rất giỏi toán... trước khi người ta trộn chữ vào bài toán.",
+      "author": ""
+    },
+    {
+      "name": "Càng học nhiều thì càng không có thời gian để áp dụng những kiến thức đã học.",
+      "author": ""
+    },
+    {
+      "name": "Khi các nhà toán học bị rơi vào bế tắc thì họ lại bắt đầu nghĩ ra các tiền đề.",
+      "author": ""
+    },
+    {
+      "name": "Không có gì làm cho học sinh thân thiết... bằng những tiết kiểm tra",
+      "author": ""
+    },
+    {
+      "name": "Kiểm tra miệng là việc của nha sĩ nhưng giáo viên vẫn thường làm",
+      "author": ""
+    },
+    {
+      "name": "Khi xưa vác bút theo thầy\nBây giờ em lại vác cày theo trâu",
+      "author": ""
+    },
+    {
+      "name": "Lời chia tay nào cũng đáng buồn Ngoại trừ... \"tan học rồi, chào cả lớp\"",
+      "author": ""
+    },
+    {
+      "name": "Đi học bị mấy đứa con gái bóp vếu\nChỉ biết im lặng chịu đựng mà không dám bóp lại",
+      "author": ""
+    },
+    {
+      "name": "Đọc điểm kiểm tra trước lớp là hình thức làm nhục công khai",
+      "author": ""
+    },
+    {
+      "name": "Phúc khảo điểm là hoạt động trả phí cho sai lầm của người khác gây ra cho bạn",
+      "author": ""
+    },
+    {
+      "name": "Thức cả đêm làm bài tập vì hôm sau đến hạn nộp. Hôm sau, cô giáo cho khất thêm vài ngày nữa.",
+      "author": ""
+    },
+    {
+      "name": "Học không yêu yếu dần rồi chết",
+      "author": ""
+    },
+    {
+      "name": "Đừng ghi nhớ những thứ mà bạn có thể tra cứu.",
+      "author": ""
+    },
+    {
+      "name": "Tiên học lễ, hậu học thêm, đêm đêm học kèm..",
+      "author": ""
+    },
+    {
+      "name": "Học nhiều hiểu được bảo nhiêu\nVừa yêu vừa học mới siêu điêu luyện",
+      "author": ""
+    },
+    {
+      "name": "Tuổi học trò không yêu là tốt.\nYêu vào rồi cái dốt lòi ra ...\nNgồi học chỉ nghĩ đến người ta \nBài kiểm toàn là 3 với 4 :))",
+      "author": ""
+    },
+    {
+      "name": "Không vô học thì thành thằng vô học\nVô học rồi thì học cũng không vô\nHọc không vô thì cần gì vô học\nVô không học thà vô học còn hơn",
+      "author": ""
+    },
+    {
+      "name": "Em hãy mạnh mẽ và trưởng thành đi nhé đừng bắt chị phải giải nữa! Toán à!",
+      "author": ""
+    },
+    {
+      "name": "Google là nơi học không tốn tiền ... và là biển của tri thức",
+      "author": ""
+    },
+    {
+      "name": "- Học sinh viết 2 từ giống nhau: Lỗi diễn đạt, lặp từ\n- Nhà văn viết 2 từ giống nhau: Nghệ thuật điệp từ",
+      "author": ""
+    },
+    {
+      "name": "- Sao em lại chép bài của bạn?\n- Thưa cô, chép bài thực ra ko đc gọi là chép bài, trong môn Văn nó gọi là tham khảo, trong môn Toán nó gọi là phép loại suy, trong môn Anh nó gọi là copy, trong môn Địa nó gọi là di cư, trong môn Sinh nó gọi là sao thông tin, trong môn Lý nó gọi là hệ tham chiếu, trong môn Hóa nó gọi là đồng phân, trong môn Chính Trị nó gọi là tìm cái chung để hạn chế cái khác biệt, trong môn Sử nó gọi là thống nhất văn hóa ạ!",
+      "author": ""
+    },
+    {
+      "name": "Sinh học là môn học đem lại tiếng cười và sự ung não cho học sinh.",
+      "author": ""
+    },
+    {
+      "name": "Học đi vs hành nhưng hành ko thể đi với con đường học vấn",
+      "author": ""
+    },
+    {
+      "name": "Cảm Ứng Từ trong môn lí chẳng ai ghi tắt cả ...",
+      "author": ""
+    },
+    {
+      "name": "Học nhiều ngu nhiều\nHọc ít ngu ít\nKhông học không ngu =))",
+      "author": ""
+    },
+    {
+      "name": "Đời học sinh vô cùng lãng mạn\nTay cầm bút chân đút vào bàn",
+      "author": ""
+    },
+    {
+      "name": "Học lắm thành trâu \nHọc lâu thành bò",
+      "author": ""
+    },
+    {
+      "name": "Trong giờ Văn, cô giáo hỏi: \"Ai là vợ của Chí Phèo?\"\nTụi con gái thi nhau giơ tay rồi nói: \"Em, em, em\"",
+      "author": ""
+    },
+    {
+      "name": "Người ta có câu: \"Chuyện gì qua rồi cho nó qua\". Thế còn môn lịch sử?",
+      "author": ""
+    },
+    {
+      "name": "Môn Toán...  chép đán án xong, đọc đếch hiểu\nMôn Văn... đọc xong đáp án, đếch muốn chép",
+      "author": ""
+    },
+    {
+      "name": "- Nè mầy chép bài bằng cái tay hay cái miệng\n- Haiz mầy ngu quá chép bằng cái tay mới rảnh cái miệng nè ...\n*le bối rối vkl  :)))))",
+      "author": ""
+    },
+    {
+      "name": "Nữ sinh không được son môi đến lớp ... vì không được đẹp hơn giáo viên :v",
+      "author": ""
+    },
+    {
+      "name": "Đối với học sinh... tên bố mẹ còn được giữ kín hơn cả bí mật quốc gia.",
+      "author": ""
+    },
+    {
+      "name": "Tiên học lễ,hậu học văn\nMấy đứa lăng nhăng làm sao mà học",
+      "author": ""
+    },
+    {
+      "name": "Con :Ba ơi, ba có thể viết trong bóng tối được không\nBa: được\nCon : vậy thì ba hãy tắt đèn và kí vào sổ liên lạc cho con nhé",
+      "author": ""
+    },
+    {
+      "name": "Bố tôi bảo cứ cố gắng học tập đi. Sau này không thành công thì cũng thành nhân. Và bây giờ tôi thành Công Nhân -_-",
+      "author": ""
+    },
+    {
+      "name": "Cô đổi chỗ em làm gì, em nói chuyện đâu cần phong thủy :v",
+      "author": ""
+    },
+    {
+      "name": "LƯU BÚT là những kỉ niệm buồn Để tránh những kỉ niệm buồn Chúng ta hãy LƯU BAN để đừng LƯU BÚT",
+      "author": ""
+    }
+  ]
+}

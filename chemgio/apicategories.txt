@@ -1,0 +1,53 @@
+{
+  "code": 200,
+  "message": "",
+  "isPassAppstore": false,
+  "isForceAppstoreReviewing": false,
+  "result": [
+    {
+      "id": "giohochanh",
+      "name": "Học hành",
+      "image": "chemgio/img/giohochanh.jpg"
+    },
+    {
+      "id": "giotangai",
+      "name": "Tán gái",
+      "image": "chemgio/img/giotangai.jpg"
+    },
+    {
+      "id": "giotienbac",
+      "name": "Tiền bạc",
+      "image": "chemgio/img/giotienbac.jpg"
+    },
+    {
+      "id": "giothoigian",
+      "name": "Thời gian",
+      "image": "chemgio/img/giothoigian.jpg"
+    },
+    {
+      "id": "giotroll",
+      "name": "Troll",
+      "image": "chemgio/img/giotroll.jpg"
+    },
+    {
+      "id": "giohonnhan",
+      "name": "Hôn nhân",
+      "image": "chemgio/img/giohonnhan.jpg"
+    },
+    {
+      "id": "gio18",
+      "name": "18+",
+      "image": "chemgio/img/gio18.jpg"
+    },
+    {
+      "id": "giototinh",
+      "name": "Tỏ tình",
+      "image": "chemgio/img/giototinh.jpg"
+    },
+    {
+      "id": "giotraloibadao",
+      "name": "Trả lời bá đạo",
+      "image": "chemgio/img/giotraloibadao.jpg"
+    }
+  ]
+}
