@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "message": "",
+  "data": [
+    {
+      "appID": "1236078754",
+      "image": "id1236078754.png",
+      "title": "TOEIC Full Test",
+      "category": "Education"
+    },
+    {
+      "appID": "1226875881",
+      "image": "id1226875881.png",
+      "title": "600 Vocabulary",
+      "category": "Education"
+    },
+    {
+      "appID": "1226373762",
+      "image": "id1226373762.png",
+      "title": "3000 Từ Vựng Thông dụng",
+      "category": "Education"
+    }
+  ]
+}
