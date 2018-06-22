@@ -22,6 +22,121 @@
       "name": "Người ta dùng thời gian để kiếm tiền… rồi dùng tiền để đốt thời gian",
       "author": ""
     },
-    
+    {
+      "name": "Học cách trân trọng những gì bạn đang có trước khi thời gian dạy cho bạn biết trân trọng những gì bạn đã từng có.",
+      "author": ""
+    },
+    {
+      "name": "Một tuần lễ với người chăm chỉ có 7 ngày, còn với kẻ lười biếng có 7 ngày mai.",
+      "author": ""
+    },
+    {
+      "name": "Thời gian trôi ai cũng sẽ khác... chỉ có em là vẫn còn ác với anh",
+      "author": ""
+    },
+    {
+      "name": "Tài sản lớn nhất của bạn là khả năng kiếm tiền. Tài nguyên lớn nhất của bạn là thời gian.",
+      "author": ""
+    },
+    {
+      "name": "Trong những nhà phê bình hiện có, vĩ đại nhất, chính xác nhất, thiên tài nhất là thời gian.",
+      "author": ""
+    },
+    {
+      "name": "Bạn không bao giờ có thể thay đổi được quá khứ của bạn, nhưng bạn có thể thay đổi tương lai!",
+      "author": ""
+    },
+    {
+      "name": "Học từ ngày hôm qua, sống ngày hôm nay, hi vọng cho ngày mai. Điều quan trọng nhất là không ngừng đặt câu hỏi.",
+      "author": ""
+    },
+    {
+      "name": "Sống trong hiện tại thật khó khăn, sống trong tương lai là vô nghĩa, và sống trong quá khứ là bất khả thi.",
+      "author": ""
+    },
+    {
+      "name": "Đừng vì còn trẻ không có tiền mà ủ rũ, tương lai, những ngày không có tiền còn rất nhiều",
+      "author": ""
+    },
+    {
+      "name": "Khi một người có tiền gặp một người có kinh nghiệm, người có kinh nghiệm sẽ tích luỹ được tiền và người có tiền sẽ tích luỹ được kinh nghiệm.",
+      "author": ""
+    },
+    {
+      "name": "Thời gian là vị bác sĩ giỏi nhưng lại là người trang điểm tồi.",
+      "author": ""
+    },
+    {
+      "name": "Đừng lãng phí thời gian của bạn cho những người không muốn giành thời gian của họ cho bạn.",
+      "author": ""
+    },
+    {
+      "name": "Bạn có yêu đời không? Vậy đừng phung phí thời gian vì chất liệu cuộc sống làm bằng thời gian.",
+      "author": ""
+    },
+    {
+      "name": "Kẻ tầm thường chỉ lo tìm cách giết thời gian, còn người có tài thì tìm mọi cách tận dụng thời gian.",
+      "author": ""
+    },
+    {
+      "name": "Anh có thể trì hoãn, nhưng thời gian thì không.",
+      "author": ""
+    },
+    {
+      "name": "Thời gian là người thầy tuyệt vời, nhưng thật không may, nó giết tất cả học trò của mình.",
+      "author": ""
+    },
+    {
+      "name": "Sự khác biệt giữa quá khứ, hiện tại và tương lai chỉ là 1 ảo tưởng dai dẳng đến ngoan cố.",
+      "author": ""
+    },
+    {
+      "name": "Thời gian không làm nên ý nghĩa cuộc sống, mà là cách sống làm nên ý nghĩa của thời gian.",
+      "author": ""
+    },
+    {
+      "name": "Thời gian của bạn là hữu hạn. Đừng phí hoài nó bằng cách sống cuộc đời của một người khác.",
+      "author": ""
+    },
+    {
+      "name": "Thời gian giá trị hơn tiền bạc. Ta có thể có thêm tiền bạc nhưng không thể có thêm thời gian.",
+      "author": ""
+    },
+    {
+      "name": "Người bận rộn chẳng còn thời gian để khóc.",
+      "author": ""
+    },
+    {
+      "name": "Quá khứ đang đợi ta trong mặt nạ tương lai",
+      "author": ""
+    },
+    {
+      "name": "Hãy trân trọng những gì bạn đang có trước khi thời gian dạy cho bạn biết trân trọng những gì bạn đã có..",
+      "author": ""
+    },
+    {
+      "name": "Người ta luôn cố tìm cách tiết kiệm thời gian, nhưng lại đang phí thời gian để tìm ra cách tiết kiệm nó.",
+      "author": ""
+    },
+    {
+      "name": "Đời ngắn! Nên đừng lãng phí thời gian với những người không có thời gian dành cho bạn.",
+      "author": ""
+    },
+    {
+      "name": "Thời gian ko bao giờ quay trở lại, chỉ có lòng người muốn trở lại với thời gian",
+      "author": ""
+    },
+    {
+      "name": "Thời gian không thực sự giúp chúng ta giải quyết định được vấn đề gì cả. Nó chỉ biến những vấn đề vốn ta chưa nghĩ thông suốt trở nên không còn quan trọng nữa mà thôi!",
+      "author": ""
+    },
+    {
+      "name": "Đâu phải một gã ăn mặc sang trọng tay đeo đồng hồ là gã có thể nắm đc thời gian trong tay đâu\nĐôi khi càng cố tiết kiệm thời gian thì bạn càng nhận ra là bạn đang lãng phí nó...",
+      "author": ""
+    },
+    {
+      "name": "Hãy trân trọng thời gian và làm thành nền tảng vững chắc cho tương lai\nĐừng để thời gian qua đi rồi tương lai ngồi đó ước",
+      "author": ""
+    }
   ]
 }
