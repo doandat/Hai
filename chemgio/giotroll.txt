@@ -22,6 +22,289 @@
       "name": "Boy: Gương mặt em khiến anh gục ngã ngay từ lần gặp đầu tiên\nGirl: Hihi em xấu mà\nBoy: Sao em biết anh định nói gì hay vậy?",
       "author": ""
     },
-    
+    {
+      "name": "Có phải bố em là một tên trộm... Ừ ờ ... nếu phải anh cũng không báo công an đâu đừng lo :v",
+      "author": ""
+    },
+    {
+      "name": "Boy: Đêm qua anh mơ thấy em\nGirl: Thật ạ?\nBoy: May sao anh tỉnh giấc.",
+      "author": ""
+    },
+    {
+      "name": "Trong mắt anh em là một vì sao. Thiếu hay thừa một vì sao cũng chẳng ảnh hưởng gì đến trời đêm cả",
+      "author": ""
+    },
+    {
+      "name": "Boy: Em có lạnh không?\nGirl: Không ạ.\nBoy: Thế cho anh mượn cái áo khoác :v",
+      "author": ""
+    },
+    {
+      "name": "Boy: Gương mặt em khiến anh gục ngã ngay từ lần gặp đầu tiên\nGirl: Hihi em xấu mà\nBoy: Sao em biết anh định nói gì hay vậy?",
+      "author": ""
+    },
+    {
+      "name": "Có phải bố em là một tên trộm... Ừ ờ ... nếu phải anh cũng không báo công an đâu đừng lo :v",
+      "author": ""
+    },
+    {
+      "name": "Boy: Đêm qua anh mơ thấy em\nGirl: Thật ạ?\nBoy: May sao anh tỉnh giấc.",
+      "author": ""
+    },
+    {
+      "name": "Ngoại hình của bạn có thể giúp bạn bình yên mà học xong ba năm trung học, nhưng IQ của bạn không cho phép.",
+      "author": ""
+    },
+    {
+      "name": "Anh : Em làm ơn đừng khóc nữa, nhìn cái mặt xấu lắm!\nEm: (nín khóc, lau nước mắt)\nAnh: thôi khóc típ đi , hồi nãy nhìn đỡ hơn",
+      "author": ""
+    },
+    {
+      "name": "Boy: Em cầm ô về kẻo ướt\nGirl: Thế còn anh?\nBoy: Anh gọi taxi :)",
+      "author": ""
+    },
+    {
+      "name": "Girl: Anh có thấy em xinh không?\nBoy: ... (vuốt cằm suy nghĩ)\nGirl: Sao anh không trả lời, anh chê em xấu phải không?\nBoy: Em cũng thông minh đó chứ.",
+      "author": ""
+    },
+    {
+      "name": "Girl: Tối sinh nhật bạn em, em nên mặc cái gì cho đẹp?\nBoy: Khẩu trang =))",
+      "author": ""
+    },
+    {
+      "name": "G: Em sợ nhất ngày kia, anh ko còn yêu em nữa\nB: Ngốc ạ, nghĩ linh tinh gì thế, nào đã bao giờ anh yêu em đâu",
+      "author": ""
+    },
+    {
+      "name": "G: Nếu em không còn xinh nữa anh còn yêu em không?\nB: Chắc rồi, chứ giờ em cũng có xinh đâu :))",
+      "author": ""
+    },
+    {
+      "name": "B: Với anh, em luôn là nhất em ko cần hỏi anh: Em mặc bộ này bộ kia có béo không nữa nhé!\nG: Ôi, cảm ơn anh yêu :-*\nB: Em có khỏa thân cũng ko ai béo bằng em đâu",
+      "author": ""
+    },
+    {
+      "name": "B: Em cười gì vậy, em yêu?\nG: Em nhớ ngày xưa mẹ bảo mặt em vầy chó nó mới yêu. Giờ nghĩ lại buồn cười quá =))",
+      "author": ""
+    },
+    {
+      "name": "Với nhan sắc này, rồi sẽ có một ngày, có một người tay cầm một bó hoa thật lớn, đứng trước mặt em và nói: “Làm ơn tránh ra một chút.”",
+      "author": ""
+    },
+    {
+      "name": "Nếu em cần một kẻ có thể sẵn sàng chết vì em, thì anh thề với Chúa ... anh không phải thằng ngu đó.",
+      "author": ""
+    },
+    {
+      "name": "Cứ đọc sách như vậy đi, tới lúc mày cận rồi thì mới sáng mắt ra",
+      "author": ""
+    },
+    {
+      "name": "- Em thích ăn ốc không?\n- Dạ có\n- Anh dắt em đi ăn ốc vít.",
+      "author": ""
+    },
+    {
+      "name": "Em sinh ra là 1 chân lý. Anh không thể nào dùng cái mỹ từ nào khác để miêu tả về em nữa. Em đáng lẽ phải xuất hiện cách đây 2000 năm trước công nguyên.",
+      "author": ""
+    },
+    {
+      "name": "- 65 triệu năm về trước em đã xuất hiện rồi\n- Để làm gì?\n- Em ở cùng thời với khủng long á.\n- Có nghĩa là em là hàng hiếm phải không? Giờ nó mới xuất hiện phải hông?\n- Đúng rồi! Em xuất hiện bị sai thời đại đó.",
+      "author": ""
+    },
+    {
+      "name": "- Mấy đứa kia bảo em mập như heo!\n- Thôi đừng suy nghĩ vớ vẫn nữa ... có con heo nào mập như em đâu.",
+      "author": ""
+    },
+    {
+      "name": "Không biết chồng tương lai của mình là người như thế nào phải không? Tui biết được chồng tương lai của bà phải là người đàn ông rất là kiên cường và tuyệt vời. Cái quan trọng nhất là cái người đàn ông mà gánh vác. Anh ta có thể làm được những chuyện mà người ta không thể làm ... bà xấu như zậy mà 1 người chịu chấp nhận bà ... tui nói thiệt là ... (chạy)",
+      "author": ""
+    },
+    {
+      "name": "- Tớ nói thật cậu đừng cười nhé, Hòa chính là nguồn động lực lớn nhất để tớ học tập thật tốt đấy.\n- Hòa chỉ là 1 lớp trưởng vụng về \n- Mẹ tớ bảo ý! Nếu mà tớ học dốt ý thì tớ chỉ cưới được những người xấu như Hòa thôi. Tớ lại không muốn như thế.",
+      "author": ""
+    },
+    {
+      "name": "- Em thích một người, anh nghĩ em có nên nói với người đó không?\n- Chỉ cần không phải anh thì em nói với ai cũng được.",
+      "author": ""
+    },
+    {
+      "name": "Gấu: 10 năm nữa chúng ta sẽ như thế nào anh ha?\nTui: Em vẫn 1m5.",
+      "author": ""
+    },
+    {
+      "name": "- Phụ nữ luôn chú ý tới sắc đẹp, Hari có kiếng trong bóp không?\n- Dạ không\n- Cũng đúng, cái gì không có thì không nên làm!",
+      "author": ""
+    },
+    {
+      "name": "- Ăn cơm em nấu, anh tràn đầy sức sống <3\n- Thật hả anh!\n- Thịt sống, rau sống, cơm cũng sống, ... cái gì cũng sống!",
+      "author": ""
+    },
+    {
+      "name": "Mỗi khi buồn chán hãy nhắm mắt lại và cảm nhận cuộc đời. Vâng, 1 màu đen không có gì tười sáng đâu!",
+      "author": ""
+    },
+    {
+      "name": "Trước đây anh vẫn tin rằng không có địa ngục cho đến khi .....anh gặp em!",
+      "author": ""
+    },
+    {
+      "name": "Công nhận hôm nay em đẹp như hoa... vạn thọ",
+      "author": ""
+    },
+    {
+      "name": "Anh xa em 30 ngày mà cứ tưởng chừng như ... cả tháng",
+      "author": ""
+    },
+    {
+      "name": "Girl: Bây giờ em mới biết đồ cắt móng tay có 1 công dụng nữa!\nBoy: Công dụng gì em?\nGirl: Cắt móng chân =))",
+      "author": ""
+    },
+    {
+      "name": "- Biết gì chưa? Ngày 20 tháng sau, trường mình được nghỉ đó!\n- Thật à? Mà sao được nghỉ vậy? (đang mừng thầm)\n- À do ngày đó trúng ngay ngày thế giới quy định là Chủ Nhật.",
+      "author": ""
+    },
+    {
+      "name": "Giới thiệu với bạn đây là Nhung ... một hot girl đến từ Hoa Quả Sơn.",
+      "author": ""
+    },
+    {
+      "name": "- Em có biết cảm giác người mình thầm yêu đang yêu thầm mình là gì không?\n- Rất là vui ạ\n- Không, nó là hoang tưởng ấy.",
+      "author": ""
+    },
+    {
+      "name": "Boy1:  Mày không hiểu gì về con gái rồi :v \nBoy2 : Đàn bà chúng mày hiểu nhau thế thì ra chỗ khác chơi đi =))",
+      "author": ""
+    },
+    {
+      "name": "- Cho em 1 cục kẹo đi \n- Không, anh không phải đàn ông dễ dãi :v\n- Cho em đi, rồi em hôn cho 1 cái\n- Không đe dọa kiểu đấy nhé =))",
+      "author": ""
+    },
+    {
+      "name": "- Bố em là 1 kiến trúc sư tuyệt vời\n- Bố em không phải kiến trúc sư\n- Thế mà ông ta đã tạo nên 1 bức tường thật hùng vĩ đứng trước mặt anh này.",
+      "author": ""
+    },
+    {
+      "name": "- Anh ơi, em xấu lắm phải không anh?\n- Trên trái đất này không có ai xấu cả. Cơ mà em đến từ hành tinh nào vậy.",
+      "author": ""
+    },
+    {
+      "name": "- Em có muốn sau khi chết có tên trong gia phả nhà anh không?\n- Anh muốn nhận em là em nuôi hả :v\n- Ừm con gì nuôi cũng làm thịt được hết á!",
+      "author": ""
+    },
+    {
+      "name": "Em có 1 vẻ đẹp của Châu Á.\nSự̣ lạnh giá của Châu Âu.\nSự nguy hiểm của Châu Mỹ.\nVà nét lì lợm của ... trâu bò",
+      "author": ""
+    },
+    {
+      "name": "- Giữa nam và nữ có tình bạn thuần khiết không?\n- Càng xấu càng thuần khiết.",
+      "author": ""
+    },
+    {
+      "name": "Anh: Mình đi sở thú hẹn hò nha em?\nEm: Chưa chi anh đã dẫn em tới gặp gia đình anh vậy =))",
+      "author": ""
+    },
+    {
+      "name": "- Em ăn gì mà xinh vậy?\n- Em đưa số điện thoại mẹ em cho anh nhé\n- Để làm gì em?\n- Để hỏi mẹ em cho em ăn gì :v",
+      "author": ""
+    },
+    {
+      "name": "- Nhìn tao làm j?\n- Tao nhìn mây nhìn gió , tao nhìn chó j mày .",
+      "author": ""
+    },
+    {
+      "name": "Tại sao mỗi lần nhìn thấy e, a lại nghĩ đến con tinh tinh nhề???",
+      "author": ""
+    },
+    {
+      "name": "Troll các bạn hay đọc lướt chữ: \"10 người comment nhanh nhất sẽ được tặng mình thẻ Viettel 10k.\nNhanh tay nhé các bạn, Việt Nam nói là làm. Ko tặng = DOG nè\"",
+      "author": ""
+    },
+    {
+      "name": "Người ta nói nụ cười là liều thuốc tốt nhất. Tao thấy cái mặt của mày thì cứu được cả thế giới luôn ý.",
+      "author": ""
+    },
+    {
+      "name": "- Nhiều khi tao cũng buồn vì nhan sắc của tao lắm\n- Mày cũng không xấu lắm đâu ...\n- Nhưng nhìn cái mặt mày tao cũng thấy an ủi nhiều rồi.",
+      "author": ""
+    },
+    {
+      "name": "- Bây giờ tao sẽ làm ảo thuật khiến mày quên mất mày là lợn.\n- Tao là lợn hồi nào?\n- Đó, mày quên rồi đấy!!!",
+      "author": ""
+    },
+    {
+      "name": "Anh chụp em 1 tấm hình được không? Anh thích sưu tập hình ảnh về thảm họa thiên nhiên lắm =))",
+      "author": ""
+    },
+    {
+      "name": "Trái tim này chỉ dành cho một người. Và đó chính là tao... không có tim làm sao tao sống được.",
+      "author": ""
+    },
+    {
+      "name": "- Anh có thích chó không?\n- Không em\n- Vậy anh ghét bản thân mình lắm à!",
+      "author": ""
+    },
+    {
+      "name": "- Nãy anh thấy mấy người bán hoa đẹp lắm định mua tặng em, mà anh thấy em có hoa rồi nên anh đi luôn!\n- Em có hoa hồi nào, ai tặng gì đâu\n- Ông trời tặng em cặp hoa nhũ đó",
+      "author": ""
+    },
+    {
+      "name": "- Em có bạn trai chưa?\n- Dạ chưa anh ạ\n- Em nói thế để anh tán chứ gì .... mơ đi nhé!",
+      "author": ""
+    },
+    {
+      "name": "- Anh rất buồn nếu em có bạn trai\n- Gái có nhiều mà anh\n- Ko, anh buồn cho bạn trai em ấy",
+      "author": ""
+    },
+    {
+      "name": "- Giữa 10.000$ và em anh sẽ chọn ai?\n- Em làm gì tới giá đó được",
+      "author": ""
+    },
+    {
+      "name": "- Vì yêu em anh có thể trèo đèo lội suối, vượt qua rừng đao biển lửa để tới bên em <3\n- Yêu quá cơ. Giờ anh qua nhà em đi\n- Hic để lúc khác đi, trời đang mưa",
+      "author": ""
+    },
+    {
+      "name": "- Hihi, nhìn anh ngầu quá, anh đang làm ở đâu vậy?\n- Cty nước ngoài em ạ\n- Ui, chắc chức anh cao lắm nhỉ\n- Thường thôi em, trưởng phòng!\n- Iu anh rồi đó, mà phòng nào vậy anh?\n- Phòng anh quan sát được hết các phòng khác: Phòng bảo vệ!",
+      "author": ""
+    },
+    {
+      "name": "- E yêu! Nhiều khi anh muốn gọi cho e vào lúc nửa để nói rằng a yêu e biết nhường nào!\n- aaaa tại sao anh lại không gọi cho em?\n- Nhưng có 1 giọng nói đã ngăn cản anh\n- Eo giọng gì vậy a yêu *háo hức*\n- Số tiền của quý khách không đủ để thực hiện cuộc gọi này",
+      "author": ""
+    },
+    {
+      "name": "- Chia tay đi, em chỉ muốn biết 1 điều: trong suốt thời gian qua, anh có bao giờ nói dối em chuyện gì không?\n- Anh yêu em\n- Muộn rồi anh ah, đừng nói vời em những lời thừa thải ấy nữa\n- Không, ý anh là trong thời gian qua anh chỉ nói dối e có vậy thôi",
+      "author": ""
+    },
+    {
+      "name": "- Anh ơi, sang nhà em nha, nhà em không có ai ở nhà cả\n- Thế à, ok em iu\n- Nhanh nha nhanh nha\n- Anh đến rồi mà thấy ai ở nhà đâu em? Khóa cửa mà :(\n- Thì em bảo nhà em không ai ở nhà mà :))",
+      "author": ""
+    },
+    {
+      "name": "- Em sợ một mai anh sẽ đem lòng yêu người con gái khác\n- Chắc chắn rồi và người con gái đó sẽ rất giống em\n- Ôi anh yêu thật lãng mạn. Là con gái chúng ta phải không?\n- Không, em gái em",
+      "author": ""
+    },
+    {
+      "name": "- Anh ơi em lạnh lắm\n- Lạnh thì vô góc tường ngồi đi em\n- Sao vậy anh?\n- Vì ở đó 90 độ",
+      "author": ""
+    },
+    {
+      "name": "- Anh đố em, em khác con bò ở điểm nào?\n- Điểm nào vậy anh?\n- Anh cũng không biết ... vì anh thấy có khác quái gì đâu",
+      "author": ""
+    },
+    {
+      "name": "- Không có chân thì em có đi giày không?\n- Không ạ\n- Vậy sao em mặc áo ngực?",
+      "author": ""
+    },
+    {
+      "name": "- Em, dọn đồ đi! Anh trúng số rồi!\n- Ô, thật à, trúng bao nhiêu mà đổi đời chuyển chỗ mới vậy anh?\n- 1 tỷ rưỡi, nhưng mà chỉ chuyển đồ em  chứ không chuyển chỗ ở",
+      "author": ""
+    },
+    {
+      "name": "Girl: Mày thấy tao có xấu ko?\nBoy: Chúa không tạo ra ai xấu cả!\nGirl: Cảm ơn mày!\nBoy: Thế thằng nào tạo ra mày vậy =))",
+      "author": ""
+    },
+    {
+      "name": "Chở bạn crush đằng sau xe.\nQuay lại hỏi : Này, sao đi xe mà bà cứ quay lưng về phía tôi thế :)",
+      "author": ""
+    }
   ]
 }
