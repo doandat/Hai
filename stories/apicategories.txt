@@ -66,12 +66,6 @@
       "image": "stories/img/khac.jpg",
       "count": 230
     },
-    {
-      "id": 13,
-      "name": "Tây du ký chế",
-      "image": "stories/img/taydukyche.jpg",
-      "count": 13
-    },
 
 
     {
@@ -98,6 +92,6 @@
       "image": "stories/img/thegioi.jpg",
       "count": 84
     }
-    
+
   ]
 }
