@@ -1,1 +1,27 @@
-giohonnhan.txt
+{
+  "code": 200,
+  "message": "",
+  "result": [
+    {
+      "name": "Yêu nhau là do duyên số, cưới nhau là do sự cố xảy ra",
+      "author": ""
+    },
+    {
+      "name": "Tình chỉ đẹp khi còn dang dở.\nLấy nhau về nham nhở lắm em ơi",
+      "author": ""
+    },
+    {
+      "name": "Hôn nhân luôn tặng bạn một đặc ân: chỉ có ai có nó mới có thể ly di",
+      "author": ""
+    },
+    {
+      "name": "Ly dị là sự kiện mà người đàn ông phải giặt đồ cho mình ... thay vì trước đó phải giặt đồ cho cả hai.",
+      "author": ""
+    },
+    {
+      "name": "Mấy người vừa đẹp trai vừa nhiều tiền thì đừng có cưới vợ :v cưới vợ xong chỉ còn đẹp trai thôi",
+      "author": ""
+    },
+    
+  ]
+}

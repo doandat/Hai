@@ -1,1 +1,27 @@
-gio18.txt
+{
+  "code": 200,
+  "message": "",
+  "result": [
+    {
+      "name": "Trẻ em thật là đáng yêu, nhưng quá trình tạo ra chúng mới là đáng kể.",
+      "author": ""
+    },
+    {
+      "name": "Em mệt hả, kiếm nhà nào nghỉ nhé :v ",
+      "author": ""
+    },
+    {
+      "name": "Đái bậy công khai còn hơn đái chai 0 độ",
+      "author": ""
+    },
+    {
+      "name": "Yêu nhau thoải mái\nNhưng đừng tùy tiện sờ vào chỗ đái của nhau",
+      "author": ""
+    },
+    {
+      "name": "Sáng ra nước tiểu vàng khè\nThì ra trời đã chuyển hè sang thu",
+      "author": ""
+    },
+    
+  ]
+}

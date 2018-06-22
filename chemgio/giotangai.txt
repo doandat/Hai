@@ -1,1 +1,27 @@
-giotangai.txt
+{
+  "code": 200,
+  "message": "",
+  "result": [
+    {
+      "name": "Em có sẵn lòng giúp 1 người vô gia cư ko ? Đưa a về nhà e với :v",
+      "author": ""
+    },
+    {
+      "name": "Mình yêu nhau em nhé, ta cùng sinh em bé :v",
+      "author": ""
+    },
+    {
+      "name": "Ngoài ngoại hình với tính cách của anh, em còn thích a ở chỗ nào nữa ko ?",
+      "author": ""
+    },
+    {
+      "name": "- Anh chê em mập hả?\n- Mập mà tấp nập người theo :D",
+      "author": ""
+    },
+    {
+      "name": "- Sao anh nói em khùng?\n- Khùng là sự tận cùng của dễ thương mà em :v",
+      "author": ""
+    },
+    
+  ]
+}

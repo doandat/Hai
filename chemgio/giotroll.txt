@@ -1,1 +1,27 @@
-giotroll.txt
+{
+  "code": 200,
+  "message": "",
+  "result": [
+    {
+      "name": "Boy: Đã có ai nói là e rất xinh chưa?\nGirl: chưa ạ\nBoy: Ừ e có đẹp đâu mà người ta nói",
+      "author": ""
+    },
+    {
+      "name": "Có phải bố em là một tên trộm. Ông ấy đã ăn trộm TV màn hình phẳng 21 inch và để quên đâu đó trên người em =))",
+      "author": ""
+    },
+    {
+      "name": "Trong mắt anh em là một vì sao. Thiếu hay thừa một vì sao cũng chẳng ảnh hưởng gì đến trời đêm cả",
+      "author": ""
+    },
+    {
+      "name": "Boy: Em có lạnh không?\nGirl: Không ạ.\nBoy: Thế cho anh mượn cái áo khoác :v",
+      "author": ""
+    },
+    {
+      "name": "Boy: Gương mặt em khiến anh gục ngã ngay từ lần gặp đầu tiên\nGirl: Hihi em xấu mà\nBoy: Sao em biết anh định nói gì hay vậy?",
+      "author": ""
+    },
+    
+  ]
+}

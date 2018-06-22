@@ -1,1 +1,27 @@
-giotienbac.txt
+{
+  "code": 200,
+  "message": "",
+  "result": [
+    {
+      "name": "Đối với tôi, việc anh giàu hay nghèo không quan trọng, miễn là… anh có tiền",
+      "author": ""
+    },
+    {
+      "name": "Nếu anh muốn biết giá trị đồng tiền, hãy thử hỏi mượn ai đó.",
+      "author": ""
+    },
+    {
+      "name": "Trong khoảnh khắc, tiền nói được nhiều điều hơn một kẻ si tình hùng biện trong nhiều năm.",
+      "author": ""
+    },
+    {
+      "name": "Ước gì tiền biết làm tình,\nNgày ngày trong ví xếp hình sinh con",
+      "author": ""
+    },
+    {
+      "name": "Bạn không thể mua được tình yêu, nhưng phải trả kha khá tiền để có được nó",
+      "author": ""
+    },
+    
+  ]
+}

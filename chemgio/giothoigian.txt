@@ -1,1 +1,27 @@
-giothoigian.txt
+{
+  "code": 200,
+  "message": "",
+  "result": [
+    {
+      "name": "Tương lai được mua bằng hiện tại.",
+      "author": ""
+    },
+    {
+      "name": "Quá khứ là nơi bạn đã học được những bài học. Tương lai là nơi bạn áp dụng bài học đó. Vì thế đừng bỏ cuộc giữa chừng.",
+      "author": ""
+    },
+    {
+      "name": "Sự chần chừ là kẻ trộm thời gian.",
+      "author": ""
+    },
+    {
+      "name": "Quá khứ chơi dại làm hại tương lai ",
+      "author": ""
+    },
+    {
+      "name": "Người ta dùng thời gian để kiếm tiền… rồi dùng tiền để đốt thời gian",
+      "author": ""
+    },
+    
+  ]
+}

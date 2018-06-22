@@ -1,1 +1,27 @@
-giototinh.txt
+{
+  "code": 200,
+  "message": "",
+  "result": [
+    {
+      "name": "Mình yêu nhau e nhé, ta cùng sau e bé",
+      "author": ""
+    },
+    {
+      "name": "Yêu anh đi, khùng như em thả rông nguy hiểm lắm",
+      "author": ""
+    },
+    {
+      "name": "Em mún bik chồng tương lai của e ko ? Quen anh đi.",
+      "author": ""
+    },
+    {
+      "name": "Em à! Lấy anh nhé, tất cả mọi thứ sau này anh có thể nhường hết cho em. Từ nấu cơm, rửa chén, giặt đồ đến chăm con ... anh nhường cho em hết!",
+      "author": ""
+    },
+    {
+      "name": "Từ giờ tới lúc em 28 tuổi, anh với em mà còn ế thì tụi mình lấy nhau nhé. ",
+      "author": ""
+    },
+    
+  ]
+}
