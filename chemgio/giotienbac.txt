@@ -15,13 +15,252 @@
       "author": ""
     },
     {
-      "name": "Ước gì tiền biết làm tình,\nNgày ngày trong ví xếp hình sinh con",
+      "name": "Ước gì tiền biết làm tình,\nNgày ngày trong ví xếp hình sinh con",
       "author": ""
     },
     {
       "name": "Bạn không thể mua được tình yêu, nhưng phải trả kha khá tiền để có được nó",
       "author": ""
     },
-    
+    {
+      "name": "Vấn đề tiền với tôi chẳng quan trọng , quan trọng là tôi chẳng có tiền",
+      "author": ""
+    },
+    {
+      "name": "Tiền tỷ thì anh không có, nhưng mà tiền lẻ thì anh có cả tỷ",
+      "author": ""
+    },
+    {
+      "name": "Tiền thì anh không thiếu, nhưng nhiều thì không có",
+      "author": ""
+    },
+    {
+      "name": "Tiền không mua được hạnh phúc nhưng có thể mua đc vô số thứ na ná như vậy",
+      "author": ""
+    },
+    {
+      "name": "Hạnh phúc không nằm ở tiền mà là số lượng của nó!",
+      "author": ""
+    },
+    {
+      "name": "Cách đòi tiền thằng bạn\nA: Tao cho mày 10 mày giúp tao 1 việc được không?\nB: Ok\nA: Trả tao 200k bữa mày mượn đê!",
+      "author": ""
+    },
+    {
+      "name": "Tiền không quan trọng… nhưng đó là ta đang nói về tiền của người khác!",
+      "author": ""
+    },
+    {
+      "name": "Tiền không phải là thước đo chính xác nhất để đánh giá con người… nhưng hầu hết người ta lại sử dụng thước đo này.",
+      "author": ""
+    },
+    {
+      "name": "Tôi không tham tiền – Nhưng nó làm thần kinh tôi bớt căng thẳng.",
+      "author": ""
+    },
+    {
+      "name": "Cái gì không mua được bằng tiền thì có thể mua bằng rất nhiều tiền!",
+      "author": ""
+    },
+    {
+      "name": "Tiền bạc hoặc là phụng sự hoặc là cai trị kẻ làm chủ nó",
+      "author": ""
+    },
+    {
+      "name": "Khi tiền đi trước mọi cánh cửa đều mở ra. ",
+      "author": ""
+    },
+    {
+      "name": "Không cho mượn tiền thì mất bạn, cho mượn tiền thì mất cả bạn và tiền!",
+      "author": ""
+    },
+    {
+      "name": "Sự phân chia tiền trên thế giới là điều hợp lý nhất bởi vì ai cũng kêu rằng mình không đủ tiền.",
+      "author": ""
+    },
+    {
+      "name": "Cách chắc ăn nhất để tránh xa một người mà ta ghét là cho hắn vay tiền.",
+      "author": ""
+    },
+    {
+      "name": "Để dành một khoản tiền nhỏ vào mỗi tháng, và đến cuối năm bạn sẽ vô cùng ngạc nhiên bởi khoản tiền bạn dành dụm được ít ỏi làm sao",
+      "author": ""
+    },
+    {
+      "name": "Nếu phụ nữ không tồn tại, tất cả tiền bạc trên thế giới này đều trở nên vô nghĩa",
+      "author": ""
+    },
+    {
+      "name": "Có quá nhiều người dành tiền mà họ không kiếm được để mua những thứ họ không muốn và để “thể hiện” với những người mà họ không thích",
+      "author": ""
+    },
+    {
+      "name": "Những ai nói tiền không thể mua được hạnh phúc đơn giản bởi họ không biết mua nó ở đâu ",
+      "author": ""
+    },
+    {
+      "name": "Muốn có tiền thì phải dám vay tiền.",
+      "author": ""
+    },
+    {
+      "name": "Tiền không quan trọng – Nhưng những vấn đề quan trọng đều giải quyết bằng tiền.",
+      "author": ""
+    },
+    {
+      "name": "Túi tiền gần con tim, xa bộ não. Lấy được tim là móc được túi.",
+      "author": ""
+    },
+    {
+      "name": "Đã không có tiền lại còn đua đòi bệnh tật.",
+      "author": ""
+    },
+    {
+      "name": "Số tiền còn lại trong túi mình là điều tuyệt mật.",
+      "author": ""
+    },
+    {
+      "name": "Tiền là 1 điều tốt đối với người tốt\nVà 1 điều xấu đối với người xấu",
+      "author": ""
+    },
+    {
+      "name": "Tiền bạc giết tâm hồn hơn là gươm giáo giết thể xác",
+      "author": ""
+    },
+    {
+      "name": "Bạc kém giá trị hơn vàng, vàng lại kém giá trị hơn đạo đức",
+      "author": ""
+    },
+    {
+      "name": "Thứ người ta cho bạn vay không phải là tiền, mà là lòng tin, sự tín nhiệm, sự khích lệ, là đánh cược vào bạn của ngày mai.",
+      "author": ""
+    },
+    {
+      "name": "Không có loại thuốc nào làm dịu đau đầu bằng tiền, có điều, phải liên tục gia tăng số lượng.",
+      "author": ""
+    },
+    {
+      "name": "Hỏi thế gian, tiền là gì? Mà sao tiêu bao nhiêu cũng hết!!!",
+      "author": ""
+    },
+    {
+      "name": "Tiền không phải là tất cả .. nhưng không có tiền là vất vả",
+      "author": ""
+    },
+    {
+      "name": "Tiền không thể mua bạn bè, nhưng nó giúp bạn có ưu thế trước các đối thủ khác",
+      "author": ""
+    },
+    {
+      "name": "Khi tôi còn trẻ tôi thường nghĩ tiền là một thứ quan trọng nhất trong cuộc sống. Và giờ khi về già, tôi biết điều đó luôn đúng",
+      "author": ""
+    },
+    {
+      "name": "Tiền không mang lại hạnh phúc cho những người không có chúng!",
+      "author": ""
+    },
+    {
+      "name": "Ngân hàng là nơi bạn sẽ cho bạn vay tiền nếu bạn chứng minh rằng mình không cần chúng",
+      "author": ""
+    },
+    {
+      "name": "Tiền không phải là thứ quan trọng nhất trên thế giới mà đó là tình yêu. Nhưng thật may mắn, tôi là người yêu tiền",
+      "author": ""
+    },
+    {
+      "name": "Những người nghĩ rằng tiền có thể làm mọi thứ, tôi nghi ngờ họ có thể làm mọi thứ vì tiền.",
+      "author": ""
+    },
+    {
+      "name": "Có 1 sự thật. Thật đến phũ phàng. Phũ phàng đến ngỡ ngàng. Ngỡ ngàng đến bàng hoàng. Bàng hoàng đến sỗ sàng… Ta vừa mất 1 ngàn!",
+      "author": ""
+    },
+    {
+      "name": "Vì sao người ta gọi là Tiền Mặt Vì cho người khác tiền, dù có cầm đập vào mặt người ta, thì người ta vẫn cười tươi như hoa",
+      "author": ""
+    },
+    {
+      "name": "Chấp nhận nợ dai, không xù ai cả",
+      "author": ""
+    },
+    {
+      "name": "Có tiền mua tiên cũng được, nhưng đừng mua một \"tiên nữ\", vì thế bạn sẽ không còn tiền nữa.",
+      "author": ""
+    },
+    {
+      "name": "Mất vài triệu năm con thú mới tiến hóa thành người.\nNhưng chỉ cần vài triệu đồng con người sẽ thành con thú.",
+      "author": ""
+    },
+    {
+      "name": "Nếu bạn không ham tiền tức là bạn đang không có tiền.",
+      "author": ""
+    },
+    {
+      "name": "Hết tiền thì khách hàng cũng hết là thượng đế",
+      "author": ""
+    },
+    {
+      "name": "Đồng tiền không tự nhiên sinh ra, cũng không tự nhiên mất đi mà chỉ chạy từ túi người này sang túi người khác.",
+      "author": ""
+    },
+    {
+      "name": "Đau đầu vì tiền, điên đầu vì tình, đâm đầu vào tường",
+      "author": ""
+    },
+    {
+      "name": "Có tiền đời đẹp như mơ\nKhông tiền tình bỏ bạn lơ chẳng nhìn",
+      "author": ""
+    },
+    {
+      "name": "- Có gốc con cóc cũng biết bay.\n- Có tiền thằng điên cũng thành tiến sĩ .",
+      "author": ""
+    },
+    {
+      "name": "Người nào nói tiền không mua được hạnh phúc thì đi shopping nhầm chỗ rồi.",
+      "author": ""
+    },
+    {
+      "name": "Tiền không mua được hạnh phúc nhưng tiền mua được những thứ làm con người hạnh phúc",
+      "author": ""
+    },
+    {
+      "name": "Có tiền hô mưa gọi gió, không tiền gọi chó cũng không trả lời",
+      "author": ""
+    },
+    {
+      "name": "Sống trên đời phải có tiền mới làm phiền được người khác",
+      "author": ""
+    },
+    {
+      "name": "Nhiều tiền chưa chắc đã sung sướng\nNhưng không có tiền chắc chắn là khổ",
+      "author": ""
+    },
+    {
+      "name": "Tôi chẳng thiếu thứ gì ngoại trừ tiền",
+      "author": ""
+    },
+    {
+      "name": "Tiền em đây thì bao la nhưng... nợ thì bao vây",
+      "author": ""
+    },
+    {
+      "name": "Viêm màng túi là một căn bệnh tràn lan và rất khó chữa hiện nay",
+      "author": ""
+    },
+    {
+      "name": "Tiền không là gì cả.......nhưng không có nó ta chẳng là gì cả!!!",
+      "author": ""
+    },
+    {
+      "name": "Trên đời này chẳng ai thiếu ai là sống không nổi cả. Chỉ có thiếu tiền mới thừa sống thiếu chết mà thôi...",
+      "author": ""
+    },
+    {
+      "name": "Có tiền là có quyền bời vì càng có nhiều tiền thì càng có nhiều lựa chọn",
+      "author": ""
+    },
+    {
+      "name": "Xa quê con nhớ mẹ hiền Con về gặp mẹ….lấy tiền xong lại xa quê",
+      "author": ""
+    }
   ]
 }
