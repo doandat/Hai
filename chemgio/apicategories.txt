@@ -5,6 +5,11 @@
   "isForceAppstoreReviewing": false,
   "result": [
     {
+      "id": "giotudienmoi",
+      "name": "Từ điển tiếng Việt dành cho người Việt",
+      "image": "chemgio/img/giotudienmoi.jpg"
+    },
+    {
       "id": "giohochanh",
       "name": "Học hành",
       "image": "chemgio/img/giohochanh.jpg"
