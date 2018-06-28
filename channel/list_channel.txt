@@ -40,7 +40,7 @@
       "idChannel": "kemxoitv",
       "name": "Kem xôi TV",
       "image": "img/kemxoitv.jpg",
-      "hasSubCategory": false
+      "hasSubCategory": true
     },
     {
       "idChannel": "5sonline",
