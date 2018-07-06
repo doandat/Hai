@@ -1,7 +1,7 @@
 {
   "result": [
   {
-      "idvideo": "3ZHgKL_Mc4",
+      "idvideo": "-3ZHgKL_Mc4",
       "name": "Lớp Học Bá Đạo - Phần 2: Tập 43 - Phim Học Đường | Phim Cấp 3 Hay 2018"
     },
     {
