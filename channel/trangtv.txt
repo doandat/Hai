@@ -41,6 +41,12 @@
       "name": "Trắng KID - Video cho thiếu nhi !!!",
       "image": "img/trangkid.jpg",
       "hasSubCategory" : false
+    },
+    {
+      "idChannel": "trangcao",
+      "name": "CÁO TRẮNG - Quảng cáo theo cách của Trắng !!!",
+      "image": "img/trangcao.jpg",
+      "hasSubCategory" : false
     }
   ]
 }
