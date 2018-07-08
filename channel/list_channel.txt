@@ -19,6 +19,12 @@
       "hasSubCategory": false
     },
     {
+      "idChannel": "svmtv",
+      "name": "SVM TV",
+      "image": "img/svmtv.jpg",
+      "hasSubCategory": true
+    },
+    {
       "idChannel": "haihanquoc",
       "name": "Hài Hàn Quốc",
       "image": "img/haihanquoc.jpg",
@@ -31,10 +37,10 @@
       "hasSubCategory": false
     },
     {
-      "idChannel": "svmtv",
-      "name": "SVM TV",
-      "image": "img/svmtv.jpg",
-      "hasSubCategory": true
+      "idChannel": "xomhom",
+      "name": "Xóm hóm",
+      "image": "img/xomhom.jpg",
+      "hasSubCategory": false
     },
     {
       "idChannel": "kemxoitv",
@@ -46,12 +52,6 @@
       "idChannel": "5sonline",
       "name": "5s Online",
       "image": "img/5sonline.jpg",
-      "hasSubCategory": false
-    },
-    {
-      "idChannel": "xomhom",
-      "name": "Xóm hóm",
-      "image": "img/xomhom.jpg",
       "hasSubCategory": false
     },
     {
