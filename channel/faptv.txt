@@ -1,5 +1,11 @@
 {
   "result": [
+{
+      "idChannel": "faptvainoituiyeua",
+      "name": "Ai Nói Tui Yêu Anh!",
+      "image": "img/faptvainoituiyeua.jpg",
+      "hasSubCategory": false
+    },
     {
       "idChannel": "faptvcomnguoi",
       "name": "FAPtv Cơm Nguội",
