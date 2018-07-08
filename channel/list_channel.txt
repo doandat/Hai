@@ -43,6 +43,12 @@
       "hasSubCategory": false
     },
     {
+      "idChannel": "trungruoi",
+      "name": "Trung Ruồi Official",
+      "image": "img/trungruoi.jpg",
+      "hasSubCategory": false
+    },
+    {
       "idChannel": "kemxoitv",
       "name": "Kem xôi TV",
       "image": "img/kemxoitv.jpg",
