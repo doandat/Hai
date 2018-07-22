@@ -19,6 +19,12 @@
       "hasSubCategory" : false
     },
     {
+      "idChannel": "trangbangdangdaumeo",
+      "name": "Băng Đảng Đầu Mèo",
+      "image": "img/trangbangdangdaumeo.jpg",
+      "hasSubCategory" : false
+    },
+    {
       "idChannel": "trangtrai",
       "name": "TRẮNG TRẢI - Tâm sự người trong cuộc !!!",
       "image": "img/trangtrai.jpg",
