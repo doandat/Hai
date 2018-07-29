@@ -1,22 +1,6 @@
 {
   "result": [
     {
-      "idvideo": "IrMppE5LPcE",
-      "name": "Vỏ quýt dày có móng tay nhọn"
-    },
-    {
-      "idvideo": "oVgvnW42jlU",
-      "name": "Thiện nữ U Hồn Đông Hiếp"
-    },
-    {
-      "idvideo": "dQgphThfzEI",
-      "name": "Vãi cả dịch"
-    },
-    {
-      "idvideo": "wpACsjfy_GY",
-      "name": "Ước gì được như thằng SƯng U"
-    },
-    {
       "idvideo": "Z9hFcncstgQ",
       "name": "Tổng hợp những pha cứng hết cả người"
     },
