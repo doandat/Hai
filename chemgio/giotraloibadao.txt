@@ -21,7 +21,7 @@
     {
       "name": "- Sao dạo này mày béo vậy?\n- Tao chỉ béo nhất thời thôi chứ mày thì xấu cả đời!",
       "author": ""
-    },
+    }
     
   ]
 }
