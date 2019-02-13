@@ -22,6 +22,185 @@
       "name": "Sáng ra nước tiểu vàng khè\nThì ra trời đã chuyển hè sang thu",
       "author": ""
     },
-    
+    {
+      "name": "Tình yêu là bù đắp cho nhau những khoảng trống",
+      "author": ""
+    },
+    {
+      "name": "Nếu chồng bị bệnh tiểu đường thì vợ bị bệnh gì ?........ đó là sún răng !!!",
+      "author": ""
+    },
+    {
+      "name": "Có khi nào trên đường đời tấp nập ... Ta vô tình đâm phầm phập vào nhau",
+      "author": ""
+    },
+    {
+      "name": "Tình dục vốn không có tội ... nhưng miêu tả tình dục là có tội !!!",
+      "author": ""
+    },
+    {
+      "name": "Mẹ a bảo ko nên nhìn phụ nữ đẹp con sẽ biến thành đá, a cũng đang cảm nhận đc vài bộ phận đang cứng như đá rồi !!!",
+      "author": ""
+    },
+    {
+      "name": "Giới thiệu với em đây là bạn anh sống nội tâm ... thủ dâm là chính :v",
+      "author": ""
+    },
+    {
+      "name": "Gương kia ngự ở trên tường..\nỞ đây ai muốn ... lên giường với ta",
+      "author": ""
+    },
+    {
+      "name": "Đừng bao giờ đùa giỡn với trái tim của 1 người con gái, vì họ chỉ có 1 mà thôi. Hãy đùa giỡn với ngực của họ vì họ có 2 cái lận",
+      "author": ""
+    },
+    {
+      "name": "Mọi chuyện trên đời đều bớt quan trọng khi bạn mắc ỉa",
+      "author": ""
+    },
+    {
+      "name": "Một phút \"Bốc Đồng\" là Một đời \"Bốc Cứt\"",
+      "author": ""
+    },
+    {
+      "name": "Phụ nữ dường như có phép thuật: họ có thể bị ướt khi không dính nước, có thể chảy máu khi không bị thương và có thể làm những vật không xương trở nên cương cứng!",
+      "author": ""
+    },
+    {
+      "name": "Cầu Chúa, Xin hãy ban quần áo cho tất cả những người phụ nữ nghèo khó trong máy vi tính của anh con. Amen",
+      "author": ""
+    },
+    {
+      "name": "Đêm qua tát nước đầu đình\nNgủ quên tí xíu chình ình bụng luôn.",
+      "author": ""
+    },
+    {
+      "name": "Tình yêu phải đi đôi với tình dục ... nếu không chẳng khác gì tình đồng chí",
+      "author": ""
+    },
+    {
+      "name": "Khi yêu thương chưa đủ ... thì đừng ngủ với anh =))",
+      "author": ""
+    },
+    {
+      "name": "Sáng nay đi ị lạnh mông\nThì ra thu đã sang đông mất rồi",
+      "author": ""
+    },
+    {
+      "name": "Hôm nay tui sẽ kể cho các bạn câu chuyện về con chim của tui ... à mà thôi... nó dài lắm.",
+      "author": ""
+    },
+    {
+      "name": "Lúc bé cứ nghĩ cởi truồng là đi tắm\nLớn lên mới biết không chỉ đi tắm mới cởi truồng",
+      "author": ""
+    },
+    {
+      "name": "Cả đời em làm gì cũng chậm, mỗi cái cần chậm thì lại nhanh.",
+      "author": ""
+    },
+    {
+      "name": "Cả tờ rym 17cm bỗng chốc thu bé lại, chỉ còn vài centimet. - Thời tiết miền bắc hiện giờ :v",
+      "author": ""
+    },
+    {
+      "name": "Trên đời này... có 2 nụ hôn với người con gái 1 là môi trên 2 là... môi dưới =))",
+      "author": ""
+    },
+    {
+      "name": "Nện nhau như cái đau tê tái, ân ái đến lạ người",
+      "author": ""
+    },
+    {
+      "name": "Khi bị muỗi hay ong chích thì chỗ bị chích sẽ bị sưng lên. Nhưng mà em có biết có loài gì mà nó chích ở 1 chỗ mà lại sưng ở chỗ khác không?",
+      "author": ""
+    },
+    {
+      "name": "Hôn được môi là lôi được quần :v",
+      "author": ""
+    },
+    {
+      "name": "Thế là em chẳng quay về\nCon chim nhịn đói chửi thề suốt đêm",
+      "author": ""
+    },
+    {
+      "name": "Bánh bao em mềm hơn bánh bao ngoài chợ nhưng bánh bao em có sữa còn bánh bao chợ có thịt.",
+      "author": ""
+    },
+    {
+      "name": "Việc đi học thời cấp 3 cũng giống như việc quay tay vậy. Lúc nào cũng muốn ra nhưng ra rồi lại thấy hối tiếc.",
+      "author": ""
+    },
+    {
+      "name": "- 2 thằng đàn ông cởi truồng cỏng nhau gọi là gì?\n- Gậy ông đập lưng ông",
+      "author": ""
+    },
+    {
+      "name": "- Thằng đàn ông cởi truồng ngồi trên đá là gì?\n- Lấy trứng chọi đá",
+      "author": ""
+    },
+    {
+      "name": "- Thằng đàn ông cởi truồng ngồi trên đá nó đái là gì?\n- Nước chảy đá mòn",
+      "author": ""
+    },
+    {
+      "name": "- Thằng đàn ông cởi truồng nhảy xuống ao là gì?\n- Chim sa cá lặn",
+      "author": ""
+    },
+    {
+      "name": "- Thằng đàn ông cởi truồng ngồi đằng sau xe đạp gọi là gì?\n- Thọc gậy bánh xe",
+      "author": ""
+    },
+    {
+      "name": "Vòng 1 của chị em phụ nữ như mặt trời vậy, nhìn 1 tý thì ko sao nhưng chằm chằm thì rất nguy hiểm.",
+      "author": ""
+    },
+    {
+      "name": "Trời sinh cái khiếu trăng hoa\nLại cho cái \"ấy\" gấp 3 người thường !",
+      "author": ""
+    },
+    {
+      "name": "- Thằng đàn ông không mặc quần nằm trong chăn bông gọi là gì?\n- Chim chích bông.",
+      "author": ""
+    },
+    {
+      "name": "Khi con nòng nọc ăn hết 1 quả trứng to nó sẽ được đầu thai làm người.",
+      "author": ""
+    },
+    {
+      "name": "Đàn ông ko sợ khó ko sợ khổ chỉ sợ khô.\nĐàn bà ko sợ mỏi ko sợ mệt chỉ sợ mềm…",
+      "author": ""
+    },
+    {
+      "name": "Thuê bao mà bạn vừa gọi hiện nằm ngoài vùng phủ sóng, nằm trong vùng phủ chăn và nằm cạnh một thuê bao khác.",
+      "author": ""
+    },
+    {
+      "name": "Anh lớn lên dưới bầu sữa mẹ\nLại dại khờ trước bầu ngực em",
+      "author": ""
+    },
+    {
+      "name": "Ăn bẩn sống lâu ... ăn cứt trâu bất tử",
+      "author": ""
+    },
+    {
+      "name": "Yêu thương không có thì đừng sờ mó hàng nhau :))",
+      "author": ""
+    },
+    {
+      "name": "Khoai không to nhưng có cả kho link 16'",
+      "author": ""
+    },
+    {
+      "name": "Anh tiểu thương thương chị tiểu thương thương đúng chỗ tiểu mà tiểu đúng chỗ thương",
+      "author": ""
+    },
+    {
+      "name": "Đàn bà phức tạp còn đàn ông thì fu.ck tạp",
+      "author": ""
+    },
+    {
+      "name": "Đầu lòng hai ả tố nga\nLàm sao để đứa thứ ba có vòi",
+      "author": ""
+    }
   ]
 }

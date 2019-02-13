@@ -1,0 +1,84 @@
+{
+  "result": [
+    {
+      "idvideo": "E8aL31Rz238",
+      "name": "A lử lên tỉnh Tập 8 LAN CAVE LÀ CON NÀO?? | Trung Ruồi - Thương Cin - Thái Dương"
+    },
+    {
+      "idvideo": "V4Dd5mRBf8o",
+      "name": "A Lử Lên Tỉnh Tập 7 A LỬ GẶP NẠN | Trung Ruồi - Thái Sơn"
+    },
+    {
+      "idvideo": "pJqX8xNgbI0",
+      "name": "A Lử Lên Tỉnh Tập 6 AI THẬT AI GIẢ | Trung Ruồi - Long Hách - Thái Dương - Thái Sơn"
+    },
+    {
+      "idvideo": "iSK9d8PCr3k",
+      "name": "A LỬ LÊN TỈNH - TẬP 5 | CHIẾC KIỀNG GIA BẢO | Trung Ruồi - Thương Cin - Sơn Lông - Thái Dương"
+    },
+    {
+      "idvideo": "PJcCRJA359o",
+      "name": "A LỬ LÊN TỈNH TẬP 4 - ĐỨA CON THẤT LẠC | Trung Ruồi Minh Tít"
+    },
+    {
+      "idvideo": "Oh2OFYURQJg",
+      "name": "A LỬ LÊN TỈNH - TẬP 3 | Ô SIN VÀ THẰNG ĂN TRỘM | Trung Ruồi - Minh Tít - Thương Cin - Thái Dương"
+    },
+    {
+      "idvideo": "Cuxfa-UNatI",
+      "name": "A LỬ LÊN TỈNH - TẬP 2 | A LỬ ĐI SIÊU THỊ | Trung Ruồi Official"
+    },
+    {
+      "idvideo": "mp807KCWqEY",
+      "name": "A LỬ LÊN TỈNH - TẬP 1 | Trung Ruồi - Minh Tít | Trung Ruồi Official"
+    },
+    {
+      "idvideo": "1xtiCHb7LXI",
+      "name": "Phim ngắn BÀN XOAY - Trung Ruồi, Minh Tít | Trung Ruồi Official"
+    },
+    {
+      "idvideo": "DFodTIGijYo",
+      "name": "Phim ca nhạc SỰ NỔI DẬY CỦA EVA - TRUNG RUỒI, THƯƠNG CIN - MV PARODY"
+    },
+    {
+      "idvideo": "xGtfLqPxFjM",
+      "name": "Phim ca nhạc CHẠY NGAY ĐI - TRUNG RUỒI, MINH TÍT, THƯƠNG CIN - MV PARODY"
+    },
+    {
+      "idvideo": "KKcK-RLN43g",
+      "name": "Không thể nhịn cười khi xem Trung Ruồi, Thương Cin chơi TAM SAO THẤT BẢN ➤ Trung Ruồi Official"
+    },
+    {
+      "idvideo": "znqAIFapPgY",
+      "name": "TRUNG RUỒI - TỔNG HỢP PHIM NGẮN CẢM ĐỘNG TRUNG RUỒI MỚI NHẤT 2018"
+    },
+    {
+      "idvideo": "-QF0Cc-NR-8",
+      "name": "Cuộc phiêu lưu của Trung Ruồi Và Minh Tít - Bản Full HD Không Che - Hài tết mới nhất 2018"
+    },
+    {
+      "idvideo": "eVUoLn1Cxy0",
+      "name": "Trailer MTR - Cuộc phiêu lưu của Trung Ruồi và Minh Tít - phim hài mới nhất 2018"
+    },
+    {
+      "idvideo": "9Hl-JUP_gJQ",
+      "name": "Hài Tết Trung Ruồi mới nhất 2018: Trung Ruồi nuôi gà bị người yêu bỏ"
+    },
+    {
+      "idvideo": "LisQ6gz_zSk",
+      "name": "Trung Ruồi - Minh Tít | Quái chiêu trong quảng cáo bá đạo | hài tết 2018 mới nhất"
+    },
+    {
+      "idvideo": "zZgdWAJIAz8",
+      "name": "PHIM NGẮN CẢM ĐỘNG : VỢ TÔI LÀ NGƯỜI TUYỆT VỜI NHẤT (Trung Ruồi)"
+    },
+    {
+      "idvideo": "47ZG6MAYdEQ",
+      "name": "Trung Ruồi Minh Tít tại đại nhạc hội Mường Thanh Full (fancam) Hài hơn cả Loa Phường; Kem Xôi"
+    },
+    {
+      "idvideo": "dHrzVJelm9E",
+      "name": "Trung Ruồi Cổ Vũ U23 VIỆT NAM | Hài Tết hay nhất 2018"
+    }
+  ]
+}

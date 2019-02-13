@@ -19,6 +19,12 @@
       "hasSubCategory" : false
     },
     {
+      "idChannel": "trangbangdangdaumeo",
+      "name": "Băng Đảng Đầu Mèo",
+      "image": "img/trangbangdangdaumeo.jpg",
+      "hasSubCategory" : false
+    },
+    {
       "idChannel": "trangtrai",
       "name": "TRẮNG TRẢI - Tâm sự người trong cuộc !!!",
       "image": "img/trangtrai.jpg",
@@ -40,6 +46,12 @@
       "idChannel": "trangkid",
       "name": "Trắng KID - Video cho thiếu nhi !!!",
       "image": "img/trangkid.jpg",
+      "hasSubCategory" : false
+    },
+    {
+      "idChannel": "trangcao",
+      "name": "CÁO TRẮNG - Quảng cáo theo cách của Trắng !!!",
+      "image": "img/trangcao.jpg",
       "hasSubCategory" : false
     }
   ]
