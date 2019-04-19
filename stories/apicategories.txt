@@ -4,7 +4,7 @@
   "isPassAppstore" : true,
   "isForceAppstoreReviewing" : false,
   "isPassAOSStore" : true,
-  "isForceAOSReviewing" : true,
+  "isForceAOSReviewing" : false,
   "result": [
     {
       "id": 1,
