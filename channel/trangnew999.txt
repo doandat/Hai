@@ -1713,10 +1713,6 @@
       "name": "Móc túi ngay trước cổng bệnh viện Bạch Mai | TRẮNG NEWS 999 | 14-09-2016"
     },
     {
-      "idvideo": "u6zcPGeUt84",
-      "name": "Private video"
-    },
-    {
       "idvideo": "i56CjbOjN_k",
       "name": "[SỐ ĐẶC BIỆT] - Vỗ mông chào hỏi - Kỷ lục thế giới về thời gian đeo bao cao su..."
     },

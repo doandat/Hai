@@ -101,20 +101,12 @@
       "name": "Xóm hóm - Phim hài 2018 | 08.04.2018 - S14 | Đinh tặc | Xom hom | HANOITV"
     },
     {
-      "idvideo": "2oAzEjRNcqU",
-      "name": "Private video"
-    },
-    {
       "idvideo": "bMPrzMMTeA8",
       "name": "Xóm hóm | 01.04.2018 - S13 | Cờ bạc là bác thằng bần | Xom hom | Phim hài 2018"
     },
     {
       "idvideo": "cJT4kOQ4Aok",
       "name": "Xóm hóm | 25.03.2018 - S12 | Ký ức mùng 8 tháng 3 | Xom hom | Phim hài 2018"
-    },
-    {
-      "idvideo": "8TpdA0URc_8",
-      "name": "Private video"
     },
     {
       "idvideo": "NIP-SgvPvQA",
@@ -127,10 +119,6 @@
     {
       "idvideo": "zzbucaZ6nIM",
       "name": "Xóm hóm | 04.03.2018 - S09 | Ai khỏe hơn ai | Xom hom | Phim hài 2018"
-    },
-    {
-      "idvideo": "21kjQVEqpGE",
-      "name": "Private video"
     },
     {
       "idvideo": "_6AexBS6qQY",
@@ -199,10 +187,6 @@
     {
       "idvideo": "T9bvy-5_LVs",
       "name": "Xóm hóm | 12.11.2017 - S56 | Chỉ tại cái ...'Camera' | Xom hom | Phim hài 2017"
-    },
-    {
-      "idvideo": "7CzgE9Mu3SQ",
-      "name": "Private video"
     },
     {
       "idvideo": "cG-D5BvaPLo",

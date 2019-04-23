@@ -53,10 +53,6 @@
       "name": "Bạn nghĩ sao khi 'làm chuyện ấy' với con gái Béo?"
     },
     {
-      "idvideo": "TRj_uy9VbK8",
-      "name": "Private video"
-    },
-    {
       "idvideo": "Cmwezc2YcPg",
       "name": "Phản ứng khi được ăn xin cho tiền.."
     },

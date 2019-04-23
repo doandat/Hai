@@ -81,10 +81,6 @@
       "name": "Hài Tết Trung Ruồi mới nhất 2018: Trung Ruồi nuôi gà bị người yêu bỏ"
     },
     {
-      "idvideo": "LisQ6gz_zSk",
-      "name": "Private video"
-    },
-    {
       "idvideo": "zZgdWAJIAz8",
       "name": "PHIM NGẮN CẢM ĐỘNG : VỢ TÔI LÀ NGƯỜI TUYỆT VỜI NHẤT (Trung Ruồi)"
     },
