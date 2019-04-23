@@ -301,10 +301,6 @@
       "name": "Loa Phường Tập 80 | RICH KID NAM ĐỊNH HỌC TÁN GÁI | Phim Hài 2018"
     },
     {
-      "idvideo": "xcrXmkOrspo",
-      "name": "Private video"
-    },
-    {
       "idvideo": "_0qrVniZhd4",
       "name": "Loa Phường Tập 81 | HOT GIRL NĂM ROI VÀ 3 CHÀNG PHÁO THỦ | PHIM HÀI 2018"
     },

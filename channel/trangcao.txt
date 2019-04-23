@@ -69,10 +69,6 @@
       "name": "Chiến thắng lịch sử là chiến thắng chính mình | Video truyền cảm hứng"
     },
     {
-      "idvideo": "Xeqpn3RJgAA",
-      "name": "Private video"
-    },
-    {
       "idvideo": "sa2DrwPybYo",
       "name": "Bị cắm sừng cũng đừng ngừng ăn !"
     },
