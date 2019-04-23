@@ -1,5 +1,17 @@
 {
   "result": [
+  {
+      "idChannel": "svmcoithuongnguoikhac",
+      "name": "Đừng Bao Giờ Coi Thường Người Khác",
+      "image": "img/svmcoithuongnguoikhac.jpg",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "svmnuquaihocduong",
+      "name": "Lớp Trưởng Siêu Quậy",
+      "image": "img/svmnuquaihocduong.jpg",
+      "hasSubCategory": false
+    },
     {
       "idChannel": "svmlophocbadao2",
       "name": "Lớp Học Bá Đạo - Season2",
