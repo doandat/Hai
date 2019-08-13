@@ -19,6 +19,12 @@
       "image": "imgRelated/id1226373762.png",
       "title": "3000 Từ Vựng Thông dụng",
       "category": "Education"
+    },
+	{
+      "appID": "1474458498",
+      "image": "imgRelated/id1474458498.png",
+      "title": "Just For Fun",
+      "category": "Education"
     }
   ]
 }
