@@ -2,7 +2,7 @@
   "result": [
     {
       "idChannel": "binhminhfilmtangai2018",
-      "name": "Phim hài tán gái mới nhất 2018",
+      "name": "Phim hài tán gái mới nhất 2020",
       "image": "img/binhminhfilmtangai2018.jpg",
       "hasSubCategory" : false
     },
