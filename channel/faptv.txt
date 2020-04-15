@@ -1,5 +1,11 @@
 {
   "result": [
+  {
+ "idChannel": "faptvsacpintraitim",
+      "name": "Sạc pin trái tim",
+      "image": "img/faptvsacpintraitim.jpg",
+      "hasSubCategory": false
+  },
 {
       "idChannel": "faptvainoituiyeua",
       "name": "Ai Nói Tui Yêu Anh!",

@@ -13,6 +13,12 @@
       "hasSubCategory": true
     },
     {
+    "idChannel": "1977vlog",
+      "name": "1977 Vlog",
+      "image": "img/1977vlog.jpg",
+      "hasSubCategory": false
+    },
+    {
       "idChannel": "faptv",
       "name": "Fap TV",
       "image": "img/faptv.jpg",
