@@ -85,10 +85,6 @@
       "name": "FAPtv Cơm Nguội: Tập 71 - Phương Muốn Hẹn Hò"
     },
     {
-      "idvideo": "PZiq9U31QbU",
-      "name": "FAPtv Cơm Nguội: Tập 74 - Cá Độ Mùa Euro"
-    },
-    {
       "idvideo": "CjYrvwT1AKM",
       "name": "FAPtv Cơm Nguội: Tập 121 - Sự Thật Vinh Râu"
     }

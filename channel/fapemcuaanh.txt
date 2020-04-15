@@ -1,10 +1,6 @@
 {
   "result": [
     {
-      "idvideo": "RavEw50NN5o",
-      "name": "Em Của Anh Đừng Của Ai - Trailer Phim Tình Cảm || Hi Team"
-    },
-    {
       "idvideo": "4_X1wesAf3g",
       "name": "Em Của Anh Đừng Của Ai - Tập 1 - Phim Tình Cảm | Hi Team - FAPtv"
     },

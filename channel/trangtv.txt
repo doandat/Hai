@@ -1,18 +1,6 @@
 {
   "result": [
     {
-      "idChannel": "trangnew999",
-      "name": "TRẮNG NEWS 999 - Tin hot mỗi ngày !!!",
-      "image": "img/trangnew999.jpg",
-      "hasSubCategory" : false
-    },
-    {
-      "idChannel": "nhactrang",
-      "name": "NHẠC TRẮNG - Âm nhạc Thời sự trong TUẦN...",
-      "image": "img/nhactrang.jpg",
-      "hasSubCategory" : false
-    },
-    {
       "idChannel": "thienbienvanhoa",
       "name": "Thiên Biến Vạn Hóa | Phim hài",
       "image": "img/thienbienvanhoa.jpg",
@@ -28,24 +16,6 @@
       "idChannel": "trangtrai",
       "name": "TRẮNG TRẢI - Tâm sự người trong cuộc !!!",
       "image": "img/trangtrai.jpg",
-      "hasSubCategory" : false
-    },
-    {
-      "idChannel": "trangchuotbach",
-      "name": "CHUỘT BẠCH - Thử mọi thứ !!!",
-      "image": "img/trangchuotbach.jpg",
-      "hasSubCategory" : false
-    },
-    {
-      "idChannel": "trangtrongtrang",
-      "name": "TRONG TRẮNG - Cảm xúc và phản ứng !!!",
-      "image": "img/trangtrongtrang.jpg",
-      "hasSubCategory" : false
-    },
-    {
-      "idChannel": "trangkid",
-      "name": "Trắng KID - Video cho thiếu nhi !!!",
-      "image": "img/trangkid.jpg",
       "hasSubCategory" : false
     },
     {

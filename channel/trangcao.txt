@@ -137,10 +137,6 @@
       "name": "Em sắp xong rồi!!"
     },
     {
-      "idvideo": "zSNrDc6_ZW4",
-      "name": "Mùa hè khốn nạn! - Clip hài hay nhất 2017 của Trắng TV"
-    },
-    {
       "idvideo": "ccIbPEPQyjQ",
       "name": "Thế giới vuông [MV - Official]"
     },
@@ -185,16 +181,8 @@
       "name": "BÓNG BÓNG BANG BANG - Bóng đá 2016 có gì hot?"
     },
     {
-      "idvideo": "FsubLzGa_XA",
-      "name": "Chú lại không nể anh! Uống đi!!!"
-    },
-    {
       "idvideo": "959SfuWgMNY",
       "name": "Là thằng đàn ông - Ai cũng thích rộng! | Xuân Hồng"
-    },
-    {
-      "idvideo": "63Ng806F9yc",
-      "name": "Cảm xúc chỉ có thể tốt hơn! | Vodka Cá Sấu"
     }
   ]
 }
