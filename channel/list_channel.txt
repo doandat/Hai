@@ -1,5 +1,17 @@
 {
   "result": [
+  {
+      "idChannel": "haitrungquoc",
+      "name": "Hài Trung Quốc",
+      "image": "img/haitrungquoc.png",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "haihanquoc",
+      "name": "Hài Hàn Quốc",
+      "image": "img/haihanquoc.jpg",
+      "hasSubCategory": true
+    },
     {
       "idChannel": "faptv",
       "name": "Fap TV",
@@ -23,18 +35,6 @@
       "name": "SVM TV",
       "image": "img/svmtv.jpg",
       "hasSubCategory": true
-    },
-    {
-      "idChannel": "haihanquoc",
-      "name": "Hài Hàn Quốc",
-      "image": "img/haihanquoc.jpg",
-      "hasSubCategory": true
-    },
-    {
-      "idChannel": "haitrungquoc",
-      "name": "Hài Trung Quốc",
-      "image": "img/haitrungquoc.png",
-      "hasSubCategory": false
     },
     {
       "idChannel": "xomhom",

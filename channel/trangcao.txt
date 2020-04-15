@@ -93,10 +93,6 @@
       "name": "Nghề tay trái của Gia đình Siêu nhân !"
     },
     {
-      "idvideo": "vmrHQ5opdDM",
-      "name": "SHOCK: Chồng đi cặp bồ với trai lạ nói câu gì ngầu nhất ?"
-    },
-    {
       "idvideo": "3KaupbSaUE4",
       "name": "Chồng sẽ không còn muốn lăng nhăng sau khi vợ dùng thứ này | Quảng cáo hài CỰC BỰA"
     },
