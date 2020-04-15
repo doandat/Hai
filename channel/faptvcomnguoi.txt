@@ -425,10 +425,6 @@
       "name": "FAPtv Cơm Nguội: Tập 161 - Trại Hè Cuồng Nhiệt Phần 1"
     },
     {
-      "idvideo": "ceKlZ8fjkQE",
-      "name": "Private video"
-    },
-    {
       "idvideo": "cEoEOYRv5-M",
       "name": "FAPtv Cơm Nguội: Tập 159 - Đối Diện Thần Chết"
     },
@@ -459,10 +455,6 @@
     {
       "idvideo": "ovvQUQeKBQw",
       "name": "FAPtv Cơm Nguội: Tập 152 - Đảo Sinh Tồn ( Phim Hài Tết 2018)"
-    },
-    {
-      "idvideo": "wycSu2lREcA",
-      "name": "Private video"
     },
     {
       "idvideo": "wUIeDFbi-uI",
@@ -569,10 +561,6 @@
       "name": "FAPtv Cơm Nguội: Tập 130 - Trà Sữa Với Despacito"
     },
     {
-      "idvideo": "_Cu5SsK7-Mk",
-      "name": "Private video"
-    },
-    {
       "idvideo": "yxYa-ecgNGY",
       "name": "FAPtv Cơm Nguội: Tập 128 - Cúng Cô Hồn Tháng 7"
     },
@@ -609,10 +597,6 @@
       "name": "FAPtv Cơm Nguội: Tập 120 - Danh Ca Bolero"
     },
     {
-      "idvideo": "ClgNUJPRRyc",
-      "name": "Private video"
-    },
-    {
       "idvideo": "4MfSPmHQMxk",
       "name": "FAPtv Cơm Nguội: Tập 118 - Thi Rớt"
     },
@@ -627,10 +611,6 @@
     {
       "idvideo": "YozKGaebFPQ",
       "name": "FAPtv Cơm Nguội: Tập 115 - Tây Du Ký Mối Tình Ngoài Truyện"
-    },
-    {
-      "idvideo": "Pitrz3rPDlo",
-      "name": "Private video"
     },
     {
       "idvideo": "B7uZa7YNyDc",
@@ -649,16 +629,8 @@
       "name": "FAPtv Cơm Nguội: Tập 111 - Theo Đuổi Đam Mê"
     },
     {
-      "idvideo": "XaoQ7LWwYTM",
-      "name": "Private video"
-    },
-    {
       "idvideo": "1UgKvfYy5hE",
       "name": "FAPtv Cơm Nguội: Tập 109 - Gà Trống Nuôi Con"
-    },
-    {
-      "idvideo": "qrV0DhHnMzs",
-      "name": "Private video"
     },
     {
       "idvideo": "oIsCnxzssVA",
@@ -667,14 +639,6 @@
     {
       "idvideo": "48JAWOTIjOA",
       "name": "FAPtv Cơm Nguội: Tập 105 - Ông Chủ Nhà Tốt Bụng"
-    },
-    {
-      "idvideo": "OPnSNLeSs9U",
-      "name": "Private video"
-    },
-    {
-      "idvideo": "6Wnra0xnVpI",
-      "name": "Private video"
     },
     {
       "idvideo": "Mx6J5xE6M1Q",
@@ -687,10 +651,6 @@
     {
       "idvideo": "G22G1k3G-kM",
       "name": "FAPtv Cơm Nguội: Tập 100 - Hành Trình Vui Vẻ"
-    },
-    {
-      "idvideo": "Mcz2-UA0MHI",
-      "name": "Private video"
     },
     {
       "idvideo": "cIF2jOq6ynM",
@@ -749,16 +709,8 @@
       "name": "FAPtv Cơm Nguội: Tập 87 - Tin Vui"
     },
     {
-      "idvideo": "tkjem01BcaY",
-      "name": "Private video"
-    },
-    {
       "idvideo": "FCDXZhfepNI",
       "name": "FAPtv Cơm Nguội: Tập 86 - Yêu Nhầm Trai Đểu"
-    },
-    {
-      "idvideo": "_lDvDhjzt3g",
-      "name": "Private video"
     },
     {
       "idvideo": "Eqx90_j2moc",
@@ -769,20 +721,12 @@
       "name": "FAPtv Cơm Nguội: Tập 83 - Chọn Bạn Mà Chơi"
     },
     {
-      "idvideo": "erY_efi4F4k",
-      "name": "Private video"
-    },
-    {
       "idvideo": "HUPB01vy5E4",
       "name": "FAPtv Cơm Nguội: Tập 81 - Đồng Cảm"
     },
     {
       "idvideo": "ES7WDcrlkek",
       "name": "FAPtv Cơm Nguội: Tập 80 - Em Là Ngôi Sao"
-    },
-    {
-      "idvideo": "Co1XkCJhAp8",
-      "name": "Private video"
     },
     {
       "idvideo": "IWNljqCbGo8",
@@ -799,10 +743,6 @@
     {
       "idvideo": "clAG9rMMQbg",
       "name": "FAPtv Cơm Nguội: Tập 75 - Đội Bóng Thiếu Lâm (Shaolin Soccer)"
-    },
-    {
-      "idvideo": "PZiq9U31QbU",
-      "name": "Private video"
     },
     {
       "idvideo": "2dkksSu5fPM",
@@ -855,10 +795,6 @@
     {
       "idvideo": "vgCyUPW30R0",
       "name": "FAPtv Cơm Nguội: Tập 61 - Vị Khách Bất Ổn - Soobin Hoàng Sơn"
-    },
-    {
-      "idvideo": "Pb07yPQ1Rp8",
-      "name": "Private video"
     },
     {
       "idvideo": "iFaNW37rbzk",
