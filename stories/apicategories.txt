@@ -72,7 +72,7 @@
 
     {
       "id": 9,
-      "name": "Cười 18+",
+      "name": "Cười haha",
       "image": "stories/img/truyen18.jpg",
       "count": 112
     },
