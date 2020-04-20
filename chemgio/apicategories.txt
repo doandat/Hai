@@ -41,8 +41,8 @@
     },
     {
       "id": "gio18",
-      "name": "18+",
-      "image": "chemgio/img/gio18.jpg"
+      "name": "Troll",
+      "image": "chemgio/img/giotraloibadao.jpg"
     },
     {
       "id": "giototinh",
