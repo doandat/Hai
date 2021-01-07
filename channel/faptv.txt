@@ -1,12 +1,17 @@
 {
-  "result": [
-  {
- "idChannel": "faptvsacpintraitim",
+  "result": [{
+      "idChannel": "faptvtanglopsinhvien",
+      "name": "Tầng Lớp Sinh Viên",
+      "image": "img/faptvtanglopsinhvien.jpg",
+      "hasSubCategory": false
+    },
+    {
+      "idChannel": "faptvsacpintraitim",
       "name": "Sạc pin trái tim",
       "image": "img/faptvsacpintraitim.jpg",
       "hasSubCategory": false
-  },
-{
+    },
+    {
       "idChannel": "faptvainoituiyeua",
       "name": "Ai Nói Tui Yêu Anh!",
       "image": "img/faptvainoituiyeua.jpg",
