@@ -441,10 +441,6 @@
       "name": "SVM Mì Tôm - Tập 102 (Tập Cuối): Kết thúc để bắt đầu"
     },
     {
-      "idvideo": "SOyeIVp6GjU",
-      "name": "Mì Tôm - Tập 104 (Ngoại Truyện) -  Phim Sinh Viên | Phim Học Đường"
-    },
-    {
       "idvideo": "4-K1psjwlcM",
       "name": "Mì Tôm - Tập 104 (Ngoại Truyện) -  Phim Sinh Viên | Phim Học Đường"
     }

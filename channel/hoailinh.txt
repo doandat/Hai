@@ -121,10 +121,6 @@
       "name": "Râu ơi Vểnh Ra - Tập 4 | Phim Hài 2016 Mới Hay Nhất | Chiến Thắng, Bình Trọng"
     },
     {
-      "idvideo": "ulJX4VXt4Tc",
-      "name": "Đêm Buồn Phố Thị | Nhạc Vàng Trữ Tình 2016 Mới Hay Nhất"
-    },
-    {
       "idvideo": "IaOoViq5Gsk",
       "name": "Râu ơi Vểnh Ra - Tập 5 | Phim Hài 2016 Mới Hay Nhất | Chiến Thắng, Bình Trọng"
     },

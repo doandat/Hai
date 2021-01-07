@@ -89,10 +89,6 @@
       "name": "Loại người mà ai cũng ghét...!"
     },
     {
-      "idvideo": "nXBX4LvNkOk",
-      "name": "Nghề tay trái của Gia đình Siêu nhân !"
-    },
-    {
       "idvideo": "3KaupbSaUE4",
       "name": "Chồng sẽ không còn muốn lăng nhăng sau khi vợ dùng thứ này | Quảng cáo hài CỰC BỰA"
     },

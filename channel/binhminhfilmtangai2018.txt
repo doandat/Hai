@@ -169,10 +169,6 @@
       "name": "Xem Tận Mắt cũng Không thể tin đây là Phim hài việt nam 2018 - Không xem tiếc cả đời"
     },
     {
-      "idvideo": "PyLjmelTO1c",
-      "name": "Tán Gái cho Con - Tập 2 | Phim Hài Mới Nhất 2018 - Phim Hay Cười Vỡ Bụng 2018"
-    },
-    {
       "idvideo": "eRCNrGO5tps",
       "name": "Tán gái cho Con Full HD | Phim Hài Mới Nhất 2018 - Phim Hay Cười Vỡ Bụng 2018"
     },
@@ -205,20 +201,12 @@
       "name": "Phim Hài Cu Thóc 2018 | Hội Thánh Đức Chúa Trời Bố Đời - Tập 3 | Bản Không Cắt Full HD"
     },
     {
-      "idvideo": "k_po2stnJWM",
-      "name": "Chỉ có ở Phim Hài Việt Nam - Đi xem phòng trọ lại xin Tắm nhờ luôn - Cười Vỡ Bụng"
-    },
-    {
       "idvideo": "9n6wqsVfaK8",
       "name": "Hoa cài Mái Tóc, Về đâu Mái tóc Người Thương - Cu Thóc | Liên Khúc Nhạc Vàng Hay Nhất 2018"
     },
     {
       "idvideo": "azrnsZe5el8",
       "name": "Thành Phố Buồn - Nhạc Vàng Chế Cu Thóc vs Cá Cường - Cười Vỡ Bụng 2018"
-    },
-    {
-      "idvideo": "ZUeTBKoP3KQ",
-      "name": "Cười Sặc Cơm vs Phim hài việt nam hay nhất - Đăng Ký Kênh Xem Hài 2018 Mới Nhất"
     },
     {
       "idvideo": "d-mAiOf5m-k",
