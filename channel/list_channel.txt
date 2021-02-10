@@ -1,5 +1,11 @@
 {
   "result": [
+    {
+      "idChannel": "haitet2021",
+      "name": "Hài Tết 2021",
+      "image": "img/haitet2021.png",
+      "hasSubCategory": false
+    },
   {
       "idChannel": "haitrungquoc",
       "name": "Hài Trung Quốc",
