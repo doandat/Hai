@@ -1,9 +1,5 @@
 {
 	"result": [
-	{
-			"idvideo": "FGfjQPd5lwA",
-			"name": "TÁO QUÂN 2021-[BẢN FULL CHÍNH THỨC]-XUÂN BẮC-VÂN DUNG-CÔNG LÝ-QUỐC KHÁNH-TỰ LONG-QUANG THẮNG"
-		},
 {
 			"idvideo": "40pmK3zsJzg",
 			"name": "TÁO QUÂN TIỀN TRUYỆN 2021 | Xuân Bắc, Công Lý, Tự Long, Vân Dung, 1977Vlog, Diệu Nhi, OBuồn Welax"
