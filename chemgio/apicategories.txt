@@ -3,6 +3,398 @@
   "message": "",
   "isPassAppstore": false,
   "isForceAppstoreReviewing": false,
-  "isPassAOSStore" : true,
-  "isForceAOSReviewing" : false,
-  "result": [{"id":"gio18", "name":"", "image":"chemgio/img.jpg"},{"id":"gioan-nhau", "name":"", "image":"chemgio/img.jpg"},{"id":"gioan-uong", "name":"", "image":"chemgio/img.jpg"},{"id":"gioban-be", "name":"", "image":"chemgio/img.jpg"},{"id":"gioban-hoi-admin-tra-loi", "name":"", "image":"chemgio/img.jpg"},{"id":"gioban-thua-biet", "name":"", "image":"chemgio/img.jpg"},{"id":"gioca-dao-tuc-ngu", "name":"", "image":"chemgio/img.jpg"},{"id":"giocau-noi-kinh-dien", "name":"", "image":"chemgio/img.jpg"},{"id":"giocha-me", "name":"", "image":"chemgio/img.jpg"},{"id":"giochia-tay", "name":"", "image":"chemgio/img.jpg"},{"id":"giochua-phan-loai", "name":"", "image":"chemgio/img.jpg"},{"id":"giochuan-cmnr", "name":"", "image":"chemgio/img.jpg"},{"id":"giochui-nghe-thuat", "name":"", "image":"chemgio/img.jpg"},{"id":"giocon-gai", "name":"", "image":"chemgio/img.jpg"},{"id":"giocon-trai-con-gai", "name":"", "image":"chemgio/img.jpg"},{"id":"giocong-so", "name":"", "image":"chemgio/img.jpg"},{"id":"giocuoc-song", "name":"", "image":"chemgio/img.jpg"},{"id":"giodan-choi", "name":"", "image":"chemgio/img.jpg"},{"id":"giodan-it", "name":"", "image":"chemgio/img.jpg"},{"id":"giode-cu", "name":"", "image":"chemgio/img.jpg"},{"id":"giodam-me", "name":"", "image":"chemgio/img.jpg"},{"id":"giodan-ong", "name":"", "image":"chemgio/img.jpg"},{"id":"giodo-meo", "name":"", "image":"chemgio/img.jpg"},{"id":"giodong-luc", "name":"", "image":"chemgio/img.jpg"},{"id":"giofa", "name":"", "image":"chemgio/img.jpg"},{"id":"giofangirl", "name":"", "image":"chemgio/img.jpg"},{"id":"giogame", "name":"", "image":"chemgio/img.jpg"},{"id":"giogia-dinh-ba-dao", "name":"", "image":"chemgio/img.jpg"},{"id":"giogiau-ngheo", "name":"", "image":"chemgio/img.jpg"},{"id":"giohoc-hanh", "name":"", "image":"chemgio/img.jpg"},{"id":"giohoi-ky-dan-fa", "name":"", "image":"chemgio/img.jpg"},{"id":"giohoi-ngu", "name":"", "image":"chemgio/img.jpg"},{"id":"giohon-nhan", "name":"", "image":"chemgio/img.jpg"},{"id":"giohu-cau", "name":"", "image":"chemgio/img.jpg"},{"id":"giolam-quen-voi-nguoi-la", "name":"", "image":"chemgio/img.jpg"},{"id":"giole-roi", "name":"", "image":"chemgio/img.jpg"},{"id":"giongay-phai-dep", "name":"", "image":"chemgio/img.jpg"},{"id":"giongu", "name":"", "image":"chemgio/img.jpg"},{"id":"gionguoc", "name":"", "image":"chemgio/img.jpg"},{"id":"gionha-nguoi-ta", "name":"", "image":"chemgio/img.jpg"},{"id":"gionhan-sac", "name":"", "image":"chemgio/img.jpg"},{"id":"gionho", "name":"", "image":"chemgio/img.jpg"},{"id":"gionoi-lai", "name":"", "image":"chemgio/img.jpg"},{"id":"gionoi-lai-18", "name":"", "image":"chemgio/img.jpg"},{"id":"gionoi-lai-ten", "name":"", "image":"chemgio/img.jpg"},{"id":"gionu-cuoi", "name":"", "image":"chemgio/img.jpg"},{"id":"gioo-ngo-u", "name":"", "image":"chemgio/img.jpg"},{"id":"giophia-sau-mot-chang-trai", "name":"", "image":"chemgio/img.jpg"},{"id":"giophu", "name":"", "image":"chemgio/img.jpg"},{"id":"gioquang-cao", "name":"", "image":"chemgio/img.jpg"},{"id":"gioranh-ngon", "name":"", "image":"chemgio/img.jpg"},{"id":"giorap-quotes", "name":"", "image":"chemgio/img.jpg"},{"id":"giosong-ao", "name":"", "image":"chemgio/img.jpg"},{"id":"giosong-chat", "name":"", "image":"chemgio/img.jpg"},{"id":"giotai-dinh-nghia", "name":"", "image":"chemgio/img.jpg"},{"id":"giotam-su-cung-thien-su", "name":"", "image":"chemgio/img.jpg"},{"id":"giotam-trang", "name":"", "image":"chemgio/img.jpg"},{"id":"giotan-gai", "name":"", "image":"chemgio/img.jpg"},{"id":"giotao-quan", "name":"", "image":"chemgio/img.jpg"},{"id":"giotet", "name":"", "image":"chemgio/img.jpg"},{"id":"giothanh-cong", "name":"", "image":"chemgio/img.jpg"},{"id":"giothay-co", "name":"", "image":"chemgio/img.jpg"},{"id":"giothi-cu", "name":"", "image":"chemgio/img.jpg"},{"id":"giotho-nhung-that", "name":"", "image":"chemgio/img.jpg"},{"id":"giothoi-gian", "name":"", "image":"chemgio/img.jpg"},{"id":"giothu-tha-thinh", "name":"", "image":"chemgio/img.jpg"},{"id":"giotien-bac", "name":"", "image":"chemgio/img.jpg"},{"id":"giotim-nao-lac", "name":"", "image":"chemgio/img.jpg"},{"id":"giotin-trong-nuoc", "name":"", "image":"chemgio/img.jpg"},{"id":"giotinh-yeu", "name":"", "image":"chemgio/img.jpg"},{"id":"gioto-tinh", "name":"", "image":"chemgio/img.jpg"},{"id":"giotoi", "name":"", "image":"chemgio/img.jpg"},{"id":"giotra-loi-ba-dao", "name":"", "image":"chemgio/img.jpg"},{"id":"giotrao-luu", "name":"", "image":"chemgio/img.jpg"},{"id":"giotroll", "name":"", "image":"chemgio/img.jpg"},{"id":"giotuong-mao", "name":"", "image":"chemgio/img.jpg"},{"id":"giotuyen-tap-ten", "name":"", "image":"chemgio/img.jpg"},{"id":"gioyeu-don-phuong", "name":"", "image":"chemgio/img.jpg"}]}
+  "isPassAOSStore": true,
+  "isForceAOSReviewing": false,
+  "result": [
+    {
+      "id": "giotan-gai",
+      "name": "Tán gái",
+      "image": "chemgio/imggiotan-gai.jpg"
+    },
+    {
+      "id": "gioto-tinh",
+      "name": "Tỏ tình",
+      "image": "chemgio/imggioto-tinh.jpg"
+    },
+    {
+      "id": "giofa",
+      "name": "FA",
+      "image": "chemgio/imggiofa.jpg"
+    },
+    {
+      "id": "giodo-meo",
+      "name": "Đố mẹo",
+      "image": "chemgio/imggiodo-meo.jpg"
+    },
+    {
+      "id": "giolam-quen-voi-nguoi-la",
+      "name": "Làm quen với người lạ",
+      "image": "chemgio/imggiolam-quen-voi-nguoi-la.jpg"
+    },
+    {
+      "id": "giotrao-luu",
+      "name": "Trào lưu",
+      "image": "chemgio/imggiotrao-luu.jpg"
+    },
+    {
+      "id": "giotroll",
+      "name": "Troll",
+      "image": "chemgio/imggiotroll.jpg"
+    },
+    {
+      "id": "giothu-tha-thinh",
+      "name": "Thư thả thính",
+      "image": "chemgio/imggiothu-tha-thinh.jpg"
+    },
+    {
+      "id": "giotien-bac",
+      "name": "Tiền bạc",
+      "image": "chemgio/imggiotien-bac.jpg"
+    },
+    {
+      "id": "gioan-nhau",
+      "name": "Ăn nhậu",
+      "image": "chemgio/imggioan-nhau.jpg"
+    },
+    {
+      "id": "gioan-uong",
+      "name": "Ăn uống",
+      "image": "chemgio/imggioan-uong.jpg"
+    },
+    {
+      "id": "gioban-be",
+      "name": "Bạn bè",
+      "image": "chemgio/imggioban-be.jpg"
+    },
+    {
+      "id": "gioban-hoi-admin-tra-loi",
+      "name": "Bạn hỏi Admin trả lời",
+      "image": "chemgio/imggioban-hoi-admin-tra-loi.jpg"
+    },
+    {
+      "id": "gioban-thua-biet",
+      "name": "Bạn thừa biết",
+      "image": "chemgio/imggioban-thua-biet.jpg"
+    },
+    {
+      "id": "gioca-dao-tuc-ngu",
+      "name": "Ca dao tục, ngữ",
+      "image": "chemgio/imggioca-dao-tuc-ngu.jpg"
+    },
+    {
+      "id": "giocau-noi-kinh-dien",
+      "name": "Câu nói kinh điển",
+      "image": "chemgio/imggiocau-noi-kinh-dien.jpg"
+    },
+    {
+      "id": "giocha-me",
+      "name": "Cha mẹ",
+      "image": "chemgio/imggiocha-me.jpg"
+    },
+    {
+      "id": "giochia-tay",
+      "name": "Chia tay",
+      "image": "chemgio/imggiochia-tay.jpg"
+    },
+    {
+      "id": "giochua-phan-loai",
+      "name": "Chưa phân loại",
+      "image": "chemgio/imggiochua-phan-loai.jpg"
+    },
+    {
+      "id": "giochuan-cmnr",
+      "name": "Chuẩn CMNR",
+      "image": "chemgio/imggiochuan-cmnr.jpg"
+    },
+    {
+      "id": "giochui-nghe-thuat",
+      "name": "Chửi nghệ thuật",
+      "image": "chemgio/imggiochui-nghe-thuat.jpg"
+    },
+    {
+      "id": "giocon-gai",
+      "name": "Con gái",
+      "image": "chemgio/imggiocon-gai.jpg"
+    },
+    {
+      "id": "giocon-trai-con-gai",
+      "name": "Con trai - Con gái",
+      "image": "chemgio/imggiocon-trai-con-gai.jpg"
+    },
+    {
+      "id": "giocong-so",
+      "name": "Công sở",
+      "image": "chemgio/imggiocong-so.jpg"
+    },
+    {
+      "id": "giocuoc-song",
+      "name": "Cuộc sống",
+      "image": "chemgio/imggiocuoc-song.jpg"
+    },
+    {
+      "id": "giodan-choi",
+      "name": "Dân chơi",
+      "image": "chemgio/imggiodan-choi.jpg"
+    },
+    {
+      "id": "giodan-it",
+      "name": "Dân IT",
+      "image": "chemgio/imggiodan-it.jpg"
+    },
+    {
+      "id": "giode-cu",
+      "name": "Dê cụ ",
+      "image": "chemgio/imggiode-cu.jpg"
+    },
+    {
+      "id": "giodam-me",
+      "name": "Đam mê",
+      "image": "chemgio/imggiodam-me.jpg"
+    },
+    {
+      "id": "giodan-ong",
+      "name": "Đàn ông",
+      "image": "chemgio/imggiodan-ong.jpg"
+    },
+    {
+      "id": "giodong-luc",
+      "name": "Động lực",
+      "image": "chemgio/imggiodong-luc.jpg"
+    },
+    {
+      "id": "giofangirl",
+      "name": "Fangirl",
+      "image": "chemgio/imggiofangirl.jpg"
+    },
+    {
+      "id": "giogame",
+      "name": "Game",
+      "image": "chemgio/imggiogame.jpg"
+    },
+    {
+      "id": "giogia-dinh-ba-dao",
+      "name": "Gia đình bá đạo",
+      "image": "chemgio/imggiogia-dinh-ba-dao.jpg"
+    },
+    {
+      "id": "giogiau-ngheo",
+      "name": "Giàu nghèo",
+      "image": "chemgio/imggiogiau-ngheo.jpg"
+    },
+    {
+      "id": "giohoc-hanh",
+      "name": "Học hành",
+      "image": "chemgio/imggiohoc-hanh.jpg"
+    },
+    {
+      "id": "giohoi-ky-dan-fa",
+      "name": "Hồi ký dân FA",
+      "image": "chemgio/imggiohoi-ky-dan-fa.jpg"
+    },
+    {
+      "id": "giohoi-ngu",
+      "name": "Hỏi ngu",
+      "image": "chemgio/imggiohoi-ngu.jpg"
+    },
+    {
+      "id": "giohon-nhan",
+      "name": "Hôn nhân",
+      "image": "chemgio/imggiohon-nhan.jpg"
+    },
+    {
+      "id": "giohu-cau",
+      "name": "Hư cấu",
+      "image": "chemgio/imggiohu-cau.jpg"
+    },
+    {
+      "id": "giole-roi",
+      "name": "Lệ rơi",
+      "image": "chemgio/imggiole-roi.jpg"
+    },
+    {
+      "id": "giongay-phai-dep",
+      "name": "Ngày phái đẹp",
+      "image": "chemgio/imggiongay-phai-dep.jpg"
+    },
+    {
+      "id": "giongu",
+      "name": "Ngủ",
+      "image": "chemgio/imggiongu.jpg"
+    },
+    {
+      "id": "gionguoc",
+      "name": "Ngược",
+      "image": "chemgio/imggionguoc.jpg"
+    },
+    {
+      "id": "gionha-nguoi-ta",
+      "name": "Nhà người ta",
+      "image": "chemgio/imggionha-nguoi-ta.jpg"
+    },
+    {
+      "id": "gionhan-sac",
+      "name": "Nhan sắc",
+      "image": "chemgio/imggionhan-sac.jpg"
+    },
+    {
+      "id": "gionho",
+      "name": "Nhọ",
+      "image": "chemgio/imggionho.jpg"
+    },
+    {
+      "id": "gionoi-lai",
+      "name": "Nói lái ",
+      "image": "chemgio/imggionoi-lai.jpg"
+    },
+    {
+      "id": "gionoi-lai-18",
+      "name": "Nói lái 18+",
+      "image": "chemgio/imggionoi-lai-18.jpg"
+    },
+    {
+      "id": "gionoi-lai-ten",
+      "name": "Nói lái tên ",
+      "image": "chemgio/imggionoi-lai-ten.jpg"
+    },
+    {
+      "id": "gionu-cuoi",
+      "name": "Nụ cười",
+      "image": "chemgio/imggionu-cuoi.jpg"
+    },
+    {
+      "id": "gioo-ngo-u",
+      "name": "Ơ ngờ u ",
+      "image": "chemgio/imggioo-ngo-u.jpg"
+    },
+    {
+      "id": "giophia-sau-mot-chang-trai",
+      "name": "Phía sau một chàng trai",
+      "image": "chemgio/imggiophia-sau-mot-chang-trai.jpg"
+    },
+    {
+      "id": "giophu",
+      "name": "Phũ",
+      "image": "chemgio/imggiophu.jpg"
+    },
+    {
+      "id": "gioquang-cao",
+      "name": "Quảng cáo",
+      "image": "chemgio/imggioquang-cao.jpg"
+    },
+    {
+      "id": "gioranh-ngon",
+      "name": "Ranh ngôn",
+      "image": "chemgio/imggioranh-ngon.jpg"
+    },
+    {
+      "id": "giorap-quotes",
+      "name": "Rap quotes",
+      "image": "chemgio/imggiorap-quotes.jpg"
+    },
+    {
+      "id": "giosong-ao",
+      "name": "Sống ảo",
+      "image": "chemgio/imggiosong-ao.jpg"
+    },
+    {
+      "id": "giosong-chat",
+      "name": "Sống chất",
+      "image": "chemgio/imggiosong-chat.jpg"
+    },
+    {
+      "id": "giotai-dinh-nghia",
+      "name": "Tái định nghĩa",
+      "image": "chemgio/imggiotai-dinh-nghia.jpg"
+    },
+    {
+      "id": "giotam-su-cung-thien-su",
+      "name": "Tâm sự cùng thiền sư",
+      "image": "chemgio/imggiotam-su-cung-thien-su.jpg"
+    },
+    {
+      "id": "giotam-trang",
+      "name": "Tâm trạng",
+      "image": "chemgio/imggiotam-trang.jpg"
+    },
+    {
+      "id": "giotao-quan",
+      "name": "Táo Quân",
+      "image": "chemgio/imggiotao-quan.jpg"
+    },
+    {
+      "id": "giotet",
+      "name": "Tết",
+      "image": "chemgio/imggiotet.jpg"
+    },
+    {
+      "id": "giothanh-cong",
+      "name": "Thành công",
+      "image": "chemgio/imggiothanh-cong.jpg"
+    },
+    {
+      "id": "giothay-co",
+      "name": "Thầy cô",
+      "image": "chemgio/imggiothay-co.jpg"
+    },
+    {
+      "id": "giothi-cu",
+      "name": "Thi cử",
+      "image": "chemgio/imggiothi-cu.jpg"
+    },
+    {
+      "id": "giotho-nhung-that",
+      "name": "Thô nhưng thật",
+      "image": "chemgio/imggiotho-nhung-that.jpg"
+    },
+    {
+      "id": "giothoi-gian",
+      "name": "Thời gian",
+      "image": "chemgio/imggiothoi-gian.jpg"
+    },
+    {
+      "id": "giotim-nao-lac",
+      "name": "Tìm não lạc",
+      "image": "chemgio/imggiotim-nao-lac.jpg"
+    },
+    {
+      "id": "giotin-trong-nuoc",
+      "name": "Tin trong nước",
+      "image": "chemgio/imggiotin-trong-nuoc.jpg"
+    },
+    {
+      "id": "giotinh-yeu",
+      "name": "Tình yêu",
+      "image": "chemgio/imggiotinh-yeu.jpg"
+    },
+    {
+      "id": "giotoi",
+      "name": "Tôi",
+      "image": "chemgio/imggiotoi.jpg"
+    },
+    {
+      "id": "giotra-loi-ba-dao",
+      "name": "Trả lời bá đạo",
+      "image": "chemgio/imggiotra-loi-ba-dao.jpg"
+    },
+    {
+      "id": "giotuong-mao",
+      "name": "Tướng mạo",
+      "image": "chemgio/imggiotuong-mao.jpg"
+    },
+    {
+      "id": "giotuyen-tap-ten",
+      "name": "Tuyển tập tên",
+      "image": "chemgio/imggiotuyen-tap-ten.jpg"
+    },
+    {
+      "id": "gioyeu-don-phuong",
+      "name": "Yêu đơn phương",
+      "image": "chemgio/imggioyeu-don-phuong.jpg"
+    },
+    {
+      "id": "gio18",
+      "name": "18+",
+      "image": "chemgio/imggio18.jpg"
+    }
+  ]
+}
