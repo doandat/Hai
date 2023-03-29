@@ -7,6 +7,11 @@
   "isForceAOSReviewing" : false,
   "result": [
     {
+      "id": "traoluu",
+      "name": "Trào lưu",
+      "image": "chemgio/img/giotraoluu.jpg"
+    },
+    {
       "id": "giotudienmoi",
       "name": "Từ điển tiếng Việt dành cho người Việt",
       "image": "chemgio/img/giotudienmoi.jpg"
