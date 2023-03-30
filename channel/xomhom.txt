@@ -1,8 +1,6 @@
 {
-  "result": [{
-    "idvideo": "Szm6_g1oglQ",
-    "name": "Xóm hóm | 17.9.2017 - S48 | Vận đen tháng ngâu | Xom hom | Phim hài 2017 | Hà Trung - Việt Bắc"
-  }, {
+  "result": [
+    {
     "idvideo": "h0Bl9MlhxYY",
     "name": "Xóm hóm | 11.06.2017 - S34 | Xom hom | Điện 'chùa' | Phim hài 2017"
   }, {

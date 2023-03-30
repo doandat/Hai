@@ -1,12 +1,6 @@
 {
   "result": [
     {
-      "idChannel": "haitet2021",
-      "name": "Hài Tết 2021",
-      "image": "img/haitet2021.png",
-      "hasSubCategory": false
-    },
-  {
       "idChannel": "haitrungquoc",
       "name": "Hài Trung Quốc",
       "image": "img/haitrungquoc.png",
@@ -19,7 +13,7 @@
       "hasSubCategory": true
     },
     {
-    "idChannel": "1977vlog",
+      "idChannel": "1977vlog",
       "name": "1977 Vlog",
       "image": "img/1977vlog.jpg",
       "hasSubCategory": false
